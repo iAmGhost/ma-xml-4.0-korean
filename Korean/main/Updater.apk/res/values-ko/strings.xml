@@ -72,7 +72,7 @@
 
   <string name="emegency_build">빌드:</string>
   <string name="wifi_not_available_title">Wi-Fi로 연결되지 않음</string>
-  <string name="wifi_not_available_body">ROM 파일을 다운로드할 때 데이터 통화료가 많이 나올 수 있으므로 Wi-Fi로 다운로드 하는 것을 권장합니다. Wi-Fi에 연결되지 않은 것 같습니다. 다운로드를 계속</string>
+  <string name="wifi_not_available_body">ROM 파일을 다운로드할 때 데이터 통화료가 많이 나올 수 있으므로 Wi-Fi로 다운로드 하는 것을 권장합니다. 계속하시겠습니까?</string>
   <string name="boot_recovery">복구 모드로 재부팅</string>
   <string name="applying_rom_message">ROM 설치 중</string>
   <string name="loading">MIUI 서버에 접속 중</string>
