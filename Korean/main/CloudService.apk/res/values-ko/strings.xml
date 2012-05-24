@@ -41,7 +41,6 @@
     <string name="password_hint_text">6~16자</string>
     <string name="password_hint">비밀번호 입력 </string>
     <string name="show_password">비밀번호 표시</string>
-    <string name="create_now">Create now</string>
     <string name="create_now">생성하기</string>
     <string name="must_input">필수 항목</string>
     <string name="login_account_suggestion1">PC 사용자는 아래 주소로 방문해서 Xiaomi 계정을 생성하세요</string>
