@@ -76,7 +76,7 @@
         <!-- message shown when one song was added -->
         <item quantity="one">1개의 노래가 재생목록에 추가되었습니다.</item>
         <!-- message shown when zero or more than one song was added -->
-        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g>개의 노래가 재생목록에 추가되었습니다./item>
+        <item quantity="other"><xliff:g id="number" example="27">%d</xliff:g>개의 노래가 재생목록에 추가되었습니다.</item>
     </plurals>
     <!-- Toasts after adding song(s) to playlists -->
     <plurals name="NNNtrackstofavoriteplaylist">
@@ -410,4 +410,6 @@
     <string name="detail_genre">"장르: "</string>
     <string name="detail_size">"용량: "</string>
     <string name="detail_format">"포맷: "</string>
+    
+    <string name="shake_while_screen_on_title">화면이 켜져있을때만 흔들기 사용</string>
 </resources>

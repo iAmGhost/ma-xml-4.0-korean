@@ -57,7 +57,7 @@
     <string name="global_action_toggle_privacy_mode">비밀 모드</string>
     <string name="global_action_privacy_mode_on_status">비밀 모드가 켜져있습니다.</string>
     <string name="global_action_privacy_mode_on_toast">비밀 모드가 켜졌습니다. 통화 기록, 노트, 갤러리, 문자메세지가 가려지고 런쳐를 편집할 수 없습니다.</string>
-    <string name="global_action_privacy_mode_dialog_message">비밀 모드에선 통화 기록, 노트, 갤러리, 문자 메세지가 가려지고 런쳐를 편집할 수 없게 됩니다. 보호 모드의 비밀번호 설정은 접근 제어 설정에서 할 수 있습니다.</string>
+    <string name="global_action_privacy_mode_dialog_message">비밀 모드에선 통화 기록, 노트, 갤러리, 문자 메세지가 가려지고 런쳐를 편집할 수 없게 됩니다. 비밀 모드의 비밀번호 설정은 접근 제어 설정에서 할 수 있습니다.</string>
     <string name="global_action_privacy_mode_off_status">개인정보 보호 모드가 꺼져있습니다.</string>
 
     <!-- Displayed on lock screen to hint user to drag lock button down to bottom for unlock-->

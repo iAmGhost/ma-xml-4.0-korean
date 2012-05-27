@@ -35,9 +35,9 @@
     <string name="alert" msgid="6539852766423700221">"벨소리"</string>
     <string name="time" msgid="8067216534232296518">"시간"</string>
     <string name="alarm_alert_dismiss_text" msgid="4942914605480888820">"해제"</string>
-    <string name="alarm_alert_alert_silenced" msgid="2704775170733835993">"<xliff:g id="MINUTES">%d</xliff:g>분 후 알람이 중지됩니다."</string>
+    <string name="alarm_alert_alert_silenced" msgid="2704775170733835993">"<xliff:g id="MINUTES">%d</xliff:g> 후 알람이 중지됩니다."</string>
     <string name="alarm_alert_snooze_text" msgid="1774416052207651584">"다시 울림"</string>
-    <string name="alarm_alert_snooze_set" msgid="656470966696912087">"<xliff:g id="MINUTES">%d</xliff:g>분 동안 알람 일시 중지"</string>
+    <string name="alarm_alert_snooze_set" msgid="656470966696912087">"<xliff:g id="MINUTES">%d</xliff:g> 동안 알람 일시 중지"</string>
   <string-array name="alarm_set">
     <item msgid="6450913786084215050">"지금부터 1분 이내로 알람이 설정됩니다."</item>
     <item msgid="6002066367368421848">"지금부터 <xliff:g id="DAYS">%1$s</xliff:g> 후로 알람이 설정됩니다."</item>
@@ -61,8 +61,6 @@
     <string name="analog_gadget" msgid="1670505720837152766">"아날로그 시계"</string>
     <string name="settings" msgid="5849739030579520686">"설정"</string>
     <string name="alarm_in_silent_mode_title" msgid="3892612644543516705">"무음 모드에서 알람 설정"</string>
-    <string name="alarm_in_silent_mode_summary" msgid="6042500263899922832">"무음 모드에서도 알람이 울리도록 설정"</string>
-    <string name="snooze_duration_title" msgid="1471249885139952670">"다시 울림 간격"</string>
   <string-array name="snooze_duration_entries">
     <item msgid="8337408933053603125">"5분"</item>
     <item msgid="5294206441496024610">"10분"</item>
@@ -79,9 +77,6 @@
     <item msgid="6048861883552402852">"25"</item>
     <item msgid="2740866721232379791">"30"</item>
   </string-array>
-    <string name="auto_silence_title" msgid="6940612987809171112">"자동 무음 모드"</string>
-    <string name="auto_silence_summary" msgid="5757272454196171758">"<xliff:g id="MINUTES">%d</xliff:g>분 후에 무음 모드로 전환합니다."</string>
-    <string name="auto_silence_never" msgid="4302257878142130807">"사용 안함"</string>
   <string-array name="auto_silence_entries">
     <item msgid="7718972982871612080">"사용 안함"</item>
     <item msgid="5431906692406316549">"5분"</item>
@@ -138,7 +133,6 @@
     <string name="menu_alarmclock_edit">알람시계 편집</string>
     <string name="menu_delete">삭제</string>
     <string name="menu_edit_systemtime">시스템 시간 편집</string>
-    <string name="menu_alarm_setting">알람 설정</string>
     <string name="delete_timezone_title">시간대 삭제</string>
     <string name="delelte_selected_timezone">정말로 선택한 시간대를 삭제하시겠습니까?</string>
     <string name="wait_when_operating_data_message">처리중입니다. 잠시만 기다려주세요.</string>
@@ -148,20 +142,20 @@
 
     <string-array name="alarm_in_furture">
         <item>1분 이내로 알람이 울립니다.</item>
-        <item><xliff:g id="DAYS" example="2 days">%1$s</xliff:g>일 후에 알람이 울립니다.</item>
-        <item><xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>시간 후에 알람이 울립니다.</item>
-        <item><xliff:g id="DAYS" example="2 days">%1$s</xliff:g>일 <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>시간 후에 알람이 울립니다.</item>
-        <item><xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>분 후에 알람이 울립니다.</item>
-        <item><xliff:g id="DAYS" example="2 days">%1$s</xliff:g>일 <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>분 후에 알람이 울립니다.</item>
-        <item><xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>시간 <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>분 후에 알람이 울립니다.</item>
-        <item><xliff:g id="DAYS" example="2 days">%1$s</xliff:g>일 <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g>시간 <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g>분 후에 알람이 울립니다.</item>
+        <item><xliff:g id="DAYS" example="2 days">%1$s</xliff:g> 후에 알람이 울립니다.</item>
+        <item><xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> 후에 알람이 울립니다.</item>
+        <item><xliff:g id="DAYS" example="2 days">%1$s</xliff:g> <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> 후에 알람이 울립니다.</item>
+        <item><xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> 후에 알람이 울립니다.</item>
+        <item><xliff:g id="DAYS" example="2 days">%1$s</xliff:g> <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> 후에 알람이 울립니다.</item>
+        <item><xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> 후에 알람이 울립니다.</item>
+        <item><xliff:g id="DAYS" example="2 days">%1$s</xliff:g> <xliff:g id="HOURS" example="2 hours">%2$s</xliff:g> <xliff:g id="MINUTES" example="2 minutes">%3$s</xliff:g> 후에 알람이 울립니다.</item>
     </string-array>
 
     <string name="alarm_disabled">비활성화</string>
     <string name="alarm_ascending_mode_title">알람소리 점점 커지게</string>
     <string name="alarm_ascending_mode_summary">알람이 설정한 볼륨까지 서서히 커집니다.</string>
 
-    <string name="slide_down_delelte_alarm">아래로 밀어 알람 끄기</string>
+    <string name="slide_down_delelte_alarm">아래로 내려 알람 끄기</string>
 
     <string-array name="days">
       <item>어제</item>
@@ -175,4 +169,28 @@
     <string name="lap">랩</string>
 
     <string name="elapsed_hour"><xliff:g id="hour">%d</xliff:g>시간</string>
+    
+    <string name="alarm_settings">알람 설정</string>
+    <string name="common_settings">일반 설정</string>
+    
+		<string name="worldclock_empty_text">추가된 세계시계가 없습니다.</string>
+    <string name="alarmclock_empty_text">알람이 없습니다.</string>
+    <string name="timer_got_it">확인</string>
+    <string name="timer_start_alarm">Timer time up</string>
+    <string name="dialog_confirm_abort">내용 변경을 취소하시겠습니까?</string>
+    <string name="remind_ringtone">벨소리</string>
+    <string name="keep_screen_on">화면 켜진채로 유지</string>
+    <string name="start_up">시작</string>
+    <string name="cancel">취소</string>
+    <string name="timer_minute">분</string>
+    <string name="timer_hour">시간</string>
+    <string name="timer_message_with_hour">%1$d시간 %2$d분</string>
+    <string name="timer_message">%1$d분</string>
+    <string name="timer_tutorial">시계방향으로 회전</string>
+    <string name="alarm_duration">알람 길이와 간격(분)</string>
+    <string name="alarm_duration_title">알람 길이 설정</string>
+    <string name="alarm_count">알람 반복 횟수</string>
+    <string name="alarm_duration_summary">알람이 %d분동안 재생되고</string>
+    <string name="alarm_count_summary"> %d번 반복후 꺼집니다.</string>
+    <string name="alarm_count_never_summary">계속 반복됩니다.</string>
 </resources>

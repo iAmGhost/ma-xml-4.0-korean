@@ -573,4 +573,15 @@
     <string name="save_photo_progress">사진 저장중...</string>
     <string name="edit_photo">사진 편집</string>
     <string name="edit_hint">편집</string>
+    
+    <string name="callrecordview_item_newcontact">새 연락처</string>
+    <string name="callrecordview_item_op_time_minutes_seconds" formatted="false">%d분 %d초</string>
+    <string name="callrecordview_item_op_time_only_minutes">%d분</string>
+    <string name="callrecordview_item_op_time_only_seconds">%d초</string>
+    <string name="callrecordview_item_op_time_short_outgoing">"발신: "</string>
+    <string name="callrecordview_item_op_time_short_incoming">"수신: "</string>
+    <string name="callrecordview_item_op_time_missed">연결 안됨</string>
+    <string name="callrecordview_item_op_time_rejected">거절됨</string>
+    <string name="no_contact_name">저장된 연락처 이름 없음</string>
+    <string name="contact_pick_photo">사진</string>
 </resources>
