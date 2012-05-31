@@ -584,4 +584,6 @@
     <string name="callrecordview_item_op_time_rejected">거절됨</string>
     <string name="no_contact_name">저장된 연락처 이름 없음</string>
     <string name="contact_pick_photo">사진</string>
+    
+    <string name="pkgLabel">연락처와 다이얼</string>
 </resources>
