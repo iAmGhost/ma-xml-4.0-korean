@@ -70,5 +70,7 @@
     <string name="apply_font_tip">테마에 폰트가 포함되어 재부팅이 필요합니다.</string>
     <string name="apply_font_btn_reboot">적용 후 재부팅</string>
     <string name="apply_font_btn_exclude">폰트 빼고 적용</string>
-
+    
+	<string name="theme_format_wrong_content">테마 정보가 올바르지 않습니다.</string>
+	<string name="wrong_title">에러</string>
 </resources>

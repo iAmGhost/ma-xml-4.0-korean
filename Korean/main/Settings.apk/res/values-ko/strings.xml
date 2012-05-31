@@ -1711,4 +1711,18 @@
     <string name="device_cpu4_info">"쿼드코어 "</string>
     <string name="available_size">%s 사용 가능</string>
     <string name="total_size">(전체 %s 중에서)</string>
+    
+	<string name="confirm_erase">삭제 확인</string>
+	<string name="erase_application">앱 삭제</string>
+	<string name="erase_application_description">설치된 앱 삭제</string>
+	<string name="erase_optional">선택적 삭제</string>
+	<string name="erase_personal_data">개인정보</string>
+	<string name="erase_personal_data_description">계정 정보, 연락처, 통화기록 등의 데이터가 삭제됩니다.</string>
+	<string name="erase_sure">정말로 제거하시겠습니까?</string>
+	<string name="factory_reset_summary">기기를 초기화 하여 개인정보나 설치된 앱을 지우고 SD카드를 포맷할 수 있습니다.</string>
+	<string name="master_clear_all">"정말 모든 데이터를 삭제하고 초기 상태로 만드시겠습니까? 이 작업은 되돌릴 수 없습니다."</string>
+	<string name="master_clear_erase_application_progress">앱 삭제중...</string>
+	<string name="master_clear_personal_data">"정말 개인정보를 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다."</string>
+	<string name="master_clear_personal_data_application">"정말 설치된 앱들을 삭제하시겠습니까? 이 작업은 되돌릴 수 없습니다."</string>
+	<string name="master_clear_personal_data_sdcard">"정말 SD카드를 포맷하시겠습니까? 이 작업은 되돌릴 수 없습니다."</string>
 </resources>
