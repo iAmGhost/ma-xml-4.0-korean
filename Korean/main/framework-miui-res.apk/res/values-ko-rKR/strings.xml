@@ -435,5 +435,11 @@
     <string name="select_all">전체 선택</string>
     <string name="reverse_all">전체선택 해제</string>
     <string name="multi_select_title"><xliff:g id="number" example="15">%1$s</xliff:g>개의 항목 선택됨</string>
+    
+    <string name="text_pastelist">클립보드</string>
+    <string name="select">선택</string>
 
+    <!-- text for WeekdayPreference  -->
+    <string name="never">하지 않음</string>
+    <string name="every_day">매일</string>
 </resources>
