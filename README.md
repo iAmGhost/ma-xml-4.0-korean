@@ -6,8 +6,9 @@ This is repository for MIUIAndroid MultiRom project. feel free to contribute wit
 
 Credits
 =================
-iAmGhost - http://iamghost.kr
-Raspberry - http://miuiraspberry.tistory.com (for original translations)
+* iAmGhost - http://iamghost.kr
+
+* Raspberry - http://miuiraspberry.tistory.com (for original translations)
 
 MIUIAndroid MultiRom
 =================
