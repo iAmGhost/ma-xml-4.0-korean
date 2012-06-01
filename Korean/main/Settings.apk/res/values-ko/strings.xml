@@ -535,7 +535,7 @@
     <string name="wifi_unchanged" msgid="3410422020930397102">"(변경 안함)"</string>
     <string name="wifi_unspecified" msgid="5431501214192991253">"(지정되지 않음)"</string>
     <string name="wifi_remembered" msgid="4955746899347821096">"저장됨"</string>
-    <string name="wifi_disabled_generic" msgid="4259794910584943386">"사용 중지됨"</string>
+    <string name="wifi_disabled_generic" msgid="4259794910584943386">"접속 중단됨"</string>
     <string name="wifi_disabled_network_failure" msgid="3111321240793227690">"인터넷 접속 불량 방지"</string>
     <string name="wifi_disabled_heading" msgid="1428050635183875599"></string>
     <string name="wifi_disabled_help" msgid="5416325603334140666">"연결 상태가 좋지 않아 네트워크가 차단되었습니다. 설정 &gt; Wi-Fi 화면의 고급 메뉴 항목에서 네트워크 차단을 사용 중지할 수 있습니다."</string>
@@ -543,7 +543,7 @@
     <string name="wifi_not_in_range" msgid="1136191511238508967">"범위 내에 없음"</string>
     <string name="wifi_wps_available_first_item" msgid="3538912605343585226">"Protected 네트워크 사용 가능"</string>
     <string name="wifi_wps_available_second_item" msgid="6121307881706347616">" (Protected 네트워크 사용 가능)"</string>
-    <string name="wifi_secured_first_item" msgid="4072076186051083451">", <xliff:g id="WIFI_SECURITY_SHORT">%1$s</xliff:g>(으)로 보안"</string>
+    <string name="wifi_secured_first_item" msgid="4072076186051083451">"<xliff:g id="WIFI_SECURITY_SHORT">%1$s</xliff:g>(으)로 보안"</string>
     <string name="wifi_secured_second_item" msgid="1326000076939056265">", <xliff:g id="WIFI_SECURITY_SHORT">%1$s</xliff:g>(으)로 보안"</string>
     <string name="wifi_security_none" msgid="7985461072596594400">"없음"</string>
     <string name="wifi_connect" msgid="1076622875777072845">"연결"</string>
