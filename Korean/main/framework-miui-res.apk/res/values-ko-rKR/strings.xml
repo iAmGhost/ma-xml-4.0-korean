@@ -64,7 +64,7 @@
     <string name="lockscreen_time_bottom_hint">아래로 밀어 잠금해제</string>
     <string name="lockscreen_call_bottom_hint">아래로 밀어 다이얼러 열기</string>
     <string name="lockscreen_sms_bottom_hint">아래로 밀어 문자 보기</string>
-    <string name="lock_screen_date">EEEE, MMMM d</string>
+    <string name="lock_screen_date">yyyy/MM/dd EEEE</string>
     <string name="keyguard_incorrect_pin_with_retry_count">%d번 남음</string>
     <string name="lockscreen_unlock_sim_via_puk">SIM 카드 잠금 해제를 위해 PUK 코드를 입력하세요.</string>
 
