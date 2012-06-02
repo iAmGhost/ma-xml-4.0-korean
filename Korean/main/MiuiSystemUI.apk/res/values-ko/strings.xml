@@ -144,7 +144,7 @@
     <string name="tab_toggles_lable">토글</string>
     <string name="status_bar_time_format_12">h:mma</string>
     <string name="status_bar_time_format_24">HH:mm</string>
-    <string name="status_bar_date_format">yyyy/MM/dd</string>
+    <string name="status_bar_date_format">yyyy/MM/dd EEEE</string>
     <string name="status_bar_recent_memory_info_format">%dM</string>
     <string name="usb_mode_notification">USB 저장소</string>
     <string name="usb_mode_dont_ask">"다시 묻지 않기"</string>
