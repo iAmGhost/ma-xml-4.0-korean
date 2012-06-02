@@ -399,4 +399,7 @@
     <string name="exit_browser_warning">브라우저를 종료하시겠습니까?</string>
     <string name="menu_exit">종료</string>
     
+    <string name="tab_yellowpage">추천 페이지</string>
+    <string name="tab_quicklinks">빠른 링크</string>
+    <string name="url_hint">"검색어 또는 URL 입력"</string>
 </resources>

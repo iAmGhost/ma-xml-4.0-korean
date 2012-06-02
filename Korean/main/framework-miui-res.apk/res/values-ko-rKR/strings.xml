@@ -2,9 +2,9 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- Reboot Confirmation Dialog.  When the user chooses to reboot the phone, there will be a confirmation dialog.  This is the message. -->
-    <string name="reboot_confirm">전화가 재부팅 됩니다.</string>
+    <string name="reboot_confirm">전화가 다시 부팅 됩니다.</string>
     <!-- Reboot Progress Dialog. This is shown if the user chooses to reboot the phone. -->
-    <string name="reboot_progress">재부팅 중...</string>
+    <string name="reboot_progress">다시 부팅 중...</string>
 
     <!-- Resource Browser -->
     <string name="resourcebrowser_lable">리소스</string>
