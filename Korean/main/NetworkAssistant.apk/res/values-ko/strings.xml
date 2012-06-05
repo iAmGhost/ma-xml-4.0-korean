@@ -91,11 +91,11 @@
 	<string name="this_month">이번 달</string>
 	<string name="today">오늘</string>
 	<string name="traffic_already_used">사용량</string>
-	<string name="traffic_exceed">초과됨</string>
+	<string name="traffic_exceed">데이터 초과됨</string>
 	<string name="traffic_none">N/A</string>
 	<string name="traffic_package_widget_name">모니터 위젯 (1x4)</string>
-	<string name="traffic_remain">남음</string>
-	<string name="traffic_suffix">사용량</string>
+	<string name="traffic_remain">잔여 데이터</string>
+	<string name="traffic_suffix">데이터 사용량</string>
 	<string name="traffic_suffix_with_uint">사용량 (MB)</string>
 	<string name="traffic_total">전체: %s</string>
 	<string name="traffic_used_status">사용: %s</string>
