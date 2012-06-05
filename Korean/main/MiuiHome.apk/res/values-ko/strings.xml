@@ -192,7 +192,7 @@
 
     <string name="invalid_contact_shortcut">올바르지 않은 연락처 바로가기</string>
 
-    <string name="guide_tips_editing_mode">아래의 위젯을 화면에 드래그 하세요.H</string>
+    <string name="guide_tips_editing_mode">아래의 위젯을 화면에 드래그 하세요.</string>
 		
     <!-- Do not translate. Duration format for duration < 1 hour -->
     <!--<string translatable="false" name="durationformatshort"><xliff:g id="format">%2$2d:%5$02d</xliff:g></string>-->
