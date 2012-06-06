@@ -293,7 +293,7 @@
     <string name="go_home" msgid="109129207276086793">"홈페이지"</string>
     <string name="add_new_bookmark" msgid="3158497555612337238">"북마크 추가"</string>
     <string name="add_bookmark_short" msgid="3783984330998103735">"추가"</string>
-    <string name="search_hint" msgid="4647356319916631820">"검색어 또는 URL 입력"</string>
+    <string name="search_hint" msgid="4647356319916631820">"검색어 입력"</string>
     <string name="search_button_text" msgid="5235226933877634410">"이동"</string>
     <string name="search_settings_description" msgid="1422401062529014107">"북마크 및 웹 기록"</string>
     <string name="popup_window_attempt" msgid="31565781154067629">"이 사이트에서 팝업 창을 열도록 허용하시겠습니까?"</string>
@@ -402,4 +402,5 @@
     <string name="tab_yellowpage">추천 페이지</string>
     <string name="tab_quicklinks">빠른 링크</string>
     <string name="url_hint">"검색어 또는 URL 입력"</string>
+		<string name="cancel">취소</string>
 </resources>
