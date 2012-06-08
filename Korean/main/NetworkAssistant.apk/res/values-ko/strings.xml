@@ -119,4 +119,5 @@
 	<string name="cannot_find_sms_cmd">"SMS 센터를 찾을 수 없습니다."</string>
 	<string name="sms_template_match_fail">SMS 템플릿 일치하지 않음</string>
 	<string name="traffic_settings_error">월별 데이터 잔량 설정에 문제가 있습니다. 월별로 주어지는 데이터는 %1$s이고 남은 데이터는 %2$s입니다.</string>
+	<string name="sms_match_fail">SMS 매치 실패</string>
 </resources>
