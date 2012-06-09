@@ -12,10 +12,12 @@ This is repository for MIUIAndroid MultiRom project.
 
 Credits
 =================
-* iAmGhost - http://iamghost.kr
+* [iAmGhost](http://iamghost.kr) - Maintanence and Translations.
 
-* Raspberry - http://miuiraspberry.tistory.com (for original translations)
+* [Raspberry](http://miuiraspberry.tistory.com) - Original GB MIUI Translations.
 
-MIUIAndroid MultiRom
+* [iBotPeaches](http://connortumbleson.com) - Builder of MultiRom, Bug reports.
+
+External Links
 =================
-http://miuiandroid.com
+* [MIUIAndroid](http://miuiandroid.com)
