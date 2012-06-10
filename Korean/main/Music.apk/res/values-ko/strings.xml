@@ -314,7 +314,7 @@
     <string name="download_all_album">앨범아트 다운로드</string>
 
      <!-- Equalizer -->
-    <string name="equalizer">이쿼라이저</string>
+    <string name="equalizer">이퀄라이저</string>
     <string name="no_effect">효과 없음</string>
     <string name="equalizer_delete">삭제</string>
     <string name="equalizer_delete_success">이퀄라이저 설정이 삭제되었습니다.</string>
