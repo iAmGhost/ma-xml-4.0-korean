@@ -590,4 +590,9 @@
     <string name="dialer_empty_text_no_search_result">연락처 없음</string>
     <string name="dialer_empty_text_loading">불러오는 중...</string>
     <string name="dialer_empty_text_no_call_log">최근 통화 없음</string>
+    
+		<string name="export_vcard_description">vCard를 SD카드로 내보내기</string>
+		<string name="import_vcard_description">SD카드에서 연락처 가져오기</string>
+		<string name="preference_import_export">가져오기/내보내기</string>
+		<string name="preference_import_export_title">연락처 가져오기/내보내기</string>
 </resources>

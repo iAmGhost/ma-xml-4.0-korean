@@ -475,4 +475,10 @@
         <item>하늘색</item>
         <item>사파이어색</item>
     </string-array>
+    <string-array name="back_long_press_timeout">
+        <item>0.5초</item>
+        <item>1초</item>
+        <item>1.5초</item>
+        <item>2초</item>
+    </string-array>
 </resources>

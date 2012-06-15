@@ -208,4 +208,10 @@
     <string name="photo_confirm">확인</string>
     <string name="photo_load_failed">사진 불러오기 실패!</string>
     <!-- END of ADD BY LIBRA -->
+    
+		<string name="gadget_weather_loading">날씨 정보를 불러올 수 없습니다.</string>
+		<string name="gadget_weather_title_14">날씨 1x4</string>
+		<string name="gadget_weather_title_24">날씨 2x4</string>
+		<string name="gadget_weather_to">부터</string>
+
 </resources>

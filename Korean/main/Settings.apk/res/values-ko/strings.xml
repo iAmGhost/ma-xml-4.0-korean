@@ -1605,8 +1605,8 @@
     <string name="key_settings_title">버튼 설정</string>
     <string name="key_settings">버튼</string>
     <string name="back_long_press">뒤로가기 키</string>
-    <string name="enable_back_long_press">뒤로가기 키를 오래 눌러 어플 종료</string>
-    <string name="back_long_press_timeout">%1$.1f초 후 종료</string>
+    <string name="enable_back_long_press">뒤로가기 버튼을 오래 눌러 어플 종료</string>
+    <string name="back_long_press_timeout">종료 전 대기 시간</string>
     <string name="power_key">전원 버튼</string>
     <string name="disable_power_key_long_press_under_keyguard">잠금화면 메뉴 비활성화</string>
     <string name="media_button">미디어 버튼</string>
@@ -1728,4 +1728,7 @@
 	
 		<string name="show_fc">강제종료 표시</string>
 		<string name="show_fc_summary">앱 강제종료 창을 표시합니다.</string>
+		<string name="usage_log">어플리케이션 사용 통계</string>
+		<string name="usb_msd_summary">Windows와 Mac에서 파일 전송</string>
+		<string name="usb_msd_title">USB 대용량 저장소</string>
 </resources>

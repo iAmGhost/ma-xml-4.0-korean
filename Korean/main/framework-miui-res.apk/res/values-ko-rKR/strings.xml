@@ -442,4 +442,14 @@
     <!-- text for WeekdayPreference  -->
     <string name="never">하지 않음</string>
     <string name="every_day">매일</string>
+    
+    <string-array name="detailed_am_pm_names">
+        <item>오전</item>
+        <item>오전</item>
+        <item>오전</item>
+        <item>오후</item>
+        <item>오후</item>
+        <item>오후</item>
+        <item>오후</item>
+    </string-array>
 </resources>

@@ -315,4 +315,28 @@
     <string name="labelCFB">바쁠때 착신</string>
     <string name="messageCFB">바쁠때 착신 번호</string>
     <string name="call_log_number_limit_summary_miui">호율성을 위해 통화기록 보관 갯수를 제한</string>
+ 		<string name="label_available">사용 가능 네트워크</string>
+    <string name="load_networks_progress">검색중…</string>
+    <string name="empty_networks_list">네트워크를 찾을 수 없습니다.</string>
+    <string name="search_networks">네트워크 검색</string>
+    <string name="network_query_error">네트워크 검색 중 문제가 발생했습니다.</string>
+    <string name="register_on_network">%s 네트워크에 등록중...</string>
+    <string name="not_allowed">SIM 카드가 이 네트워크에 접속하는것을 허용하지 않습니다.</string>
+    <string name="connect_later">이 네트워크에 접속할 수 없습니다. 잠시후 다시 시도해주세요.</string>
+    <string name="registration_done">네트워크에 등록됨.</string>
+    <string name="sum_carrier_select">네트워크 사업자 선택</string>
+    <string name="sum_search_networks">사용가능한 전체 네트워크 검색</string>
+    <string name="select_automatically">자동으로 선택</string>
+    <string name="sum_select_automatically">사용 가능한 네트워크에 자동으로 연결합니다.</string>
+    <string name="register_automatically">자동 등록중...</string>
+    
+    <string name="card_title_dialing">전화 거는 중</string>
+    <string name="card_title_redialing">재시도 중</string>
+    <string name="card_title_conf_call">다자간 통화</string>
+    <string name="card_title_incoming_call">수신 전화</string>
+    <string name="card_title_cdma_call_waiting">CDMA 통화 대기중</string>
+    <string name="card_title_call_ended">통화 종료됨</string>
+    <string name="card_title_on_hold">통화 대기중</string>
+    <string name="card_title_hanging_up">끊는 중</string>
+    <string name="card_title_in_call">거는 중</string>
 </resources>
