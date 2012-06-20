@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
-    <string name="config_systemBarComponent">com.android.systemui.statusbar.tablet.TabletStatusBar</string>
-    <string name="flash_device">/sys/class/leds/flashlight/brightness</string>
-    <string name="status_bar_date_formatter">%2$s</string>
-    <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-    <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
-    <string name="status_bar_toggle_divider_action">com.android.systemui/.settings.StyleSettings</string>
-    <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
-    <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
-    <string name="status_bar_toggle_flight_mode_action">com.android.phone/com.android.phone.Settings</string>
-    <string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
-    <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-    <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
-    <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
-    <string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
-    <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
-    <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
     <string name="app_label">시스템 UI</string>
     <string name="status_bar_clear_all_button">지우기</string>
     <string name="status_bar_do_not_disturb_button">알림 숨김</string>
@@ -265,4 +248,17 @@
     <string name="ext_media_nomedia_notification_title">SD카드 제거됨</string>
     <string name="ext_media_nomedia_notification_message">SD카드가 제거되었습니다. 새 카드를 넣어주세요.</string>
     <string name="settings_auto_dismiss_screenshot_notification">스크린샷 알림 숨기기</string>
+    
+		<string name="key_position_custom">소프트키 위치 사용자화</string>
+		<string name="notifications_off_text">여기를 눌러 다시 알림을 활성화할 수 있습니다.</string>
+		<string name="notifications_off_title">알림이 꺼졌습니다.</string>
+		<string name="recent_apps_key">최근 실행한 앱 키</string>
+		<string name="recent_apps_key_show">최근 실행한 앱 키 보기</string>
+		<string name="screen_button_custom">키 위치 사용자화</string>
+		<string name="screen_key_back">뒤로가기</string>
+		<string name="screen_key_home">홈</string>
+		<string name="screen_key_menu">메뉴</string>
+		<string name="screen_key_recent_apps">최근 실행한 앱</string>
+		<string name="settings_show_network_speed">네트워크 속도 표시</string>
+		<string name="toast_rotation_locked">화면이 가로방향으로 고정되었습니다.</string>
 </resources>

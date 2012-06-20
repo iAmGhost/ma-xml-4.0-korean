@@ -88,7 +88,7 @@
     <!-- When the user long presses the BACK key, the foreground app will be killed. This is the message to be showed to user.  -->
     <string name="first_back_long_press_title">뒤로가기 키 설정</string>
     <string name="first_back_long_press_message">뒤로가기 키를 꾹 눌러 현재 프로세스와 하위 서비스를 종료하고 싶으신가요? 설정-시스템-버튼 에서 옵션을 활성화 할 수 있습니다.</string>
-    <string name="force_exit_message">\"%1$s\"가 종료되었습니다.</string>
+    <string name="force_exit_message">\"%1$s\" 앱이 종료되었습니다.</string>
 
     <string name="unknown">알 수 없는 번호</string>
     <string name="private_num">발신번호 표시제한</string>

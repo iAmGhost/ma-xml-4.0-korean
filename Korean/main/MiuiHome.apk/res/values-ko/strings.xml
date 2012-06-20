@@ -214,4 +214,5 @@
 		<string name="gadget_weather_title_24">날씨 2x4</string>
 		<string name="gadget_weather_to">부터</string>
 
+		<string name="gadget_weather_app_not_installed">MIUI 날씨 앱이 설치되어 있지 않습니다.</string>
 </resources>

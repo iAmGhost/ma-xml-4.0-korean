@@ -138,5 +138,9 @@
 
     <string name="check_all">모두 선택</string>
     <string name="check_nothing">모두 선택해제</string>
+    
+		<string name="close_rule">차단규칙 비활성화</string>
+		<string name="fw_log_inf">수신거부 기록</string>
+
 </resources>
 

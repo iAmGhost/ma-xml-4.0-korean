@@ -123,4 +123,9 @@
     <string name="plate_traffic_already_used">데이터 사용량 (%s)</string>
     <string name="plate_traffic_remain">잔여 데이터 (%s)</string>
     <string name="plate_traffic_exceed">데이터 초과량 (%s)</string>
+    
+		<string name="pref_network_speed_internal_title">데이터 속도 새로고침 주기</string>
+		<string name="pref_network_speed_settings">현재 데이터 속도를 알림 바에 표시합니다.</string>
+		<string name="pref_network_status_bar">알림 바</string>
+		<string name="pref_netwotk_speed_internal_summary">%d초마다 네트워크 속도 표시를 갱신합니다.</string>
 </resources>

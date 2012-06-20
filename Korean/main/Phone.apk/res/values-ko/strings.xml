@@ -339,4 +339,25 @@
     <string name="card_title_on_hold">통화 대기중</string>
     <string name="card_title_hanging_up">끊는 중</string>
     <string name="card_title_in_call">거는 중</string>
+    
+  <string name="answer_state_setting_summary">뒤집어서 음소거, 근접센서 등의 설정</string>
+  <string name="answer_state_setting_title">수신전화 상태 설정</string>
+  <string name="answer_state_setting_title_miui">수신전화 상태 설정</string>
+  <string name="auto_answer_summary_delay">(지연 시간:%ss)</string>
+  <string name="auto_answer_summary_not_enabled">비활성화</string>
+  <string name="auto_ip_summary_not_enabled">비활성화</string>
+  <string name="call_log_number_limit_setting_switcher">제한</string>
+  <string name="call_log_number_limit_setting_switcher_summary">효율성을 위해 통화기록 저장 갯수 제한</string>
+  <string name="call_log_number_limit_setting_title">통화기록 저장 설정</string>
+  <string name="call_waiting_tone_stop_summary">(볼륨키를 눌러 벨소리를 수동으로 끌 수 있습니다.)</string>
+  <string name="cdma_display_precise_call_state_message_miui">만약 통신사에서 이 기능을 지원하지 않는다면 통화 상태가 제대로 표시되지 않을 수도 있습니다. 정말로 여시겠습니까?</string>
+  <string name="cdma_display_precise_call_state_summary_miui">CDMA 전화 타이머는 통신사에서 제한하고 있습니다. 만약 통신사에서 지원한다면 통화 상테가 정확하게 표시될 것입니다.</string>
+  <string name="cdma_display_precise_call_state_title_miui">정확한 통화 상태 표시</string>
+  <string name="incall_screen_background_summary_miui">"연락처 사진이 없을 경우 잠금화면 배경 사용"</string>
+  <string name="incall_screen_background_title_miui">통화 배경화면 설정</string>
+  <string name="reject_via_sms_miui">통화 거절시 SMS 발송</string>
+  <string name="reject_via_sms_summary_miui">통화를 거절했을때 발신자에게 SMS를 보낼 수 있습니다.</string>
+  <string name="reject_via_sms_title_miui">통화 거절시 SMS 발송 설정</string>
+  <string name="turnover_mute_summary_miui">폰을 뒤집어서 무음 모드로 만들 수 있습니다.</string>
+
 </resources>

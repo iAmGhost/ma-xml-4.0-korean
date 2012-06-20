@@ -71,6 +71,15 @@
     <string name="apply_font_btn_reboot">적용 후 재부팅</string>
     <string name="apply_font_btn_exclude">폰트 빼고 적용</string>
     
-	<string name="theme_format_wrong_content">테마 정보가 올바르지 않습니다.</string>
-	<string name="wrong_title">에러</string>
+		<string name="theme_format_wrong_content">테마 정보가 올바르지 않습니다.</string>
+		<string name="wrong_title">에러</string>
+		
+	  <string name="close">닫기</string>
+	  <string name="download_success">다운로드 완료</string>
+	  <string name="resource_preview">미리보기</string>
+	  <string name="wallpaper_decoded_error">디코드 실패!</string>
+	  <string name="wallpaper_loading_text">불러오는 중…</string>
+	  <string name="wallpaper_set_as_both">둘 다 적용</string>
+	  <string name="wallpaper_set_as_destop">배경화면으로 적용</string>
+	  <string name="wallpaper_set_as_lockscreen">잠금화면 배경으로 적용</string>
 </resources>
