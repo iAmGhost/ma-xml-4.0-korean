@@ -5,12 +5,12 @@
         <item>모든 어플</item>
     </string-array>
     <string-array name="system_package_label">
-        <item>갤러리</item>
-        <item>음악</item>
-        <item>녹음기</item>
         <item>브라우저</item>
-        <item>카메라</item>
         <item>파일 탐색기</item>
+        <item>갤러리</item>
+        <item>권한 관리</item>
+        <item>카메라</item>
+        <item>모니터</item>
     </string-array>
     <string-array name="system_data_label">
         <item>연락처</item>
@@ -23,8 +23,7 @@
         <item>알람 설정</item>
         <item>노트</item>
         <item>수신거부 설정</item>
-        <item>현재 테마</item>
-        <item>루트 권한 설정</item>
+        <item>계정 설정</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>데이터</item>
