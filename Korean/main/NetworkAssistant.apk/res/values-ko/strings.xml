@@ -29,7 +29,7 @@
     <string name="pref_connect_settings_enable_backgroung">백그라운드 서비스 활성화</string>
     <string name="pref_connect_settings_enable_backgroung_hint">앱이 백그라운드에서 동작시 인터넷 접속을 허용합니다.</string>
     <string name="warning_title">경고</string>
-    <string name="close_txt">취소</string>
+    <string name="close_txt">닫기</string>
     <string name="cancel_txt">취소</string>
     <string name="disable_background_connect_warning">백그라운드 데이터를 비활성화 하면 몇몇 앱이나 서비스들이 2G/3G에서 동작할 수 없게 됩니다. 계속하시겠습니까?</string>
     <string name="menu_refresh">새로고침</string>
