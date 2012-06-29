@@ -18,6 +18,10 @@ Credits
 
 * [iBotPeaches](http://connortumbleson.com) - Builder of MultiRom, Bug reports.
 
+Contributors
+=================
+* [BeMoreSee](http://bemoresee.tistory.com)
+
 External Links
 =================
 * [MIUIAndroid](http://miuiandroid.com)

@@ -167,4 +167,13 @@
     <string name="HIPS_Perm_Network">인터넷 접속</string>
     <string name="HIPS_Perm_Network_Desc">인터넷에 접속합니다.</string>
     <string name="HIPS_Perm_Network_Hint">%1$s개의 앱이 인터넷 접속 권한을 가지고 있습니다.</string>
+    <string name="HIPS_SecurityPrompt_AcceptRoot">허용</string>
+    <string name="HIPS_SecurityPrompt_Next">계속</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Caption">중요 사항</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step1">정말로 %1$s 앱의 루트권한 사용을 허용하시겠습니까?</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step2">루트 권한은 시스템 불안정을 불러올 수 있습니다.</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step3">또한 계정, 암호, 메세지 등과 같은 개인정보의 손상을 불러올수도 있습니다.</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step4">영구적인 기기 손상이 올 수도 있습니다.</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step5">신중히 결정하세요!</string>
+    <string name="HIPS_SecurityPrompt_ROOT_Step6">정말로 %1$s 앱의 루트권한 사용을 허용하시겠습니까?</string>
 </resources>
