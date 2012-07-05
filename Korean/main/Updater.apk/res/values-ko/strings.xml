@@ -103,4 +103,5 @@
   <string name="share_update_content_sign">I’ve updated MIUI to <xliff:g id="VERSION">%1$s</xliff:g>! My update user rank is <xliff:g id="RANK">%2$s</xliff:g>. For detailed changelog, please visit "<xliff:g id="CHANGELOG">%3$s</xliff:g>"</string>
   <string name="share_sina">Sina에 공유</string>
   <string name="share_qq">QQ에 공유</string>
+  <string name="current_version_update_monthly_build">현재 버전 (월간 빌드로 업데이트)</string>
 </resources>

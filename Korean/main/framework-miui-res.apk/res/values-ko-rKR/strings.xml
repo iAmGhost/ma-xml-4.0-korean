@@ -454,4 +454,18 @@
     </string-array>
     
     <string name="resource_see_more">더 보기</string>
+    
+		<string name="day_of_month">" %d"</string>
+		<string name="month_of_january">1월</string>
+		<string name="month_of_february">2월</string>
+		<string name="month_of_march">3월</string>
+		<string name="month_of_april">4월</string>
+		<string name="month_of_may">5월</string>
+		<string name="month_of_june">6월</string>
+		<string name="month_of_july">7월</string>
+		<string name="month_of_august">8월</string>
+		<string name="month_of_september">9월</string>
+		<string name="month_of_october">10월</string>
+		<string name="month_of_november">11월</string>
+		<string name="month_of_december">12월</string>
 </resources>

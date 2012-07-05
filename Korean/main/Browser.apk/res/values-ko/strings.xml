@@ -363,4 +363,19 @@
     <string name="tab_yellowpage">추천 페이지</string>
     <string name="tab_quicklinks">빠른 링크</string>
     <string name="url_hint">"검색어 또는 URL 입력"</string>
+    
+		<string name="share_link">링크 공유</string>
+		<string name="open_all_bookmarks">모두 열기</string>
+		<string name="multi_select_title">%1$s개의 항목 선택됨</string>
+		<string name="move_to_up_folder">상위 폴더로</string>
+		<string name="google_bookmarks">"구글: "</string>
+		<string name="folder_name">폴더 이름</string>
+		<string name="edit">편집</string>
+		<string name="delete_multi_bookmarks_alert_title">정말로 %1$s개의 북마크를 삭제하시겠습니까?</string>
+		<string name="delete">삭제</string>
+		<string name="bookmarks_root_folder">최상위 폴더</string>
+		<string name="bookmarks_management">북마크</string>
+		<string name="bookmark_add_to">추가하기</string>
+		<string name="add_folder">폴더 추가하기</string>
+		<string name="add_bookmark_to_home_screen">홈 화면에 추가</string>
 </resources>
