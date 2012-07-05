@@ -176,4 +176,11 @@
     <string name="HIPS_SecurityPrompt_ROOT_Step4">영구적인 기기 손상이 올 수도 있습니다.</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step5">신중히 결정하세요!</string>
     <string name="HIPS_SecurityPrompt_ROOT_Step6">정말로 %1$s 앱의 루트권한 사용을 허용하시겠습니까?</string>
+ 		<string name="Dashboard_Perm_AutoStart_Switch">자동실행 관리자</string>
+    <string name="Dashboard_Perm_AutoStart">앱 자동실행 관리</string>
+    <string name="Dashboard_Perm_AutoStart_Desc">앱의 자동실행 여부를 설정합니다.</string>
+		<string name="SysOpt_Boost_Boot">부팅</string>
+    <string name="SysOpt_Boost_Receiver">백그라운드</string>
+    <string name="SysOpt_Boost_AutoStart_Group">자동실행</string>
+    <string name="SysOpt_Boost_AutoStart">자동실행 권한</string>
 </resources>

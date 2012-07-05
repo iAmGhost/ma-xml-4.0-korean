@@ -61,4 +61,8 @@
         <item>무음일 때만</item>
         <item>진동 없음</item>
     </string-array>
+    <string-array name="entries_date_type">
+        <item>도착한 시간 표시</item>
+        <item>전송 시간 표시 (서버 시간 사용)</item>
+    </string-array>
 </resources>

@@ -452,4 +452,6 @@
         <item>오후</item>
         <item>오후</item>
     </string-array>
+    
+    <string name="resource_see_more">더 보기</string>
 </resources>

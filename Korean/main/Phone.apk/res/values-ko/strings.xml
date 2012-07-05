@@ -359,5 +359,10 @@
   <string name="reject_via_sms_summary_miui">통화를 거절했을때 발신자에게 SMS를 보낼 수 있습니다.</string>
   <string name="reject_via_sms_title_miui">통화 거절시 SMS 발송 설정</string>
   <string name="turnover_mute_summary_miui">폰을 뒤집어서 무음 모드로 만들 수 있습니다.</string>
+  
+	<string name="telocation_setting_summary_countrycode_off">자동 국가번호 사용하지 않음</string>
+	<string name="telocation_setting_summary_countrycode_on">자동으로 국가번호 추가</string>
+	<string name="telocation_setting_summary_teloc_off">위치 숨김</string>
+	<string name="telocation_setting_summary_teloc_on">위치 표시</string>
 
 </resources>
