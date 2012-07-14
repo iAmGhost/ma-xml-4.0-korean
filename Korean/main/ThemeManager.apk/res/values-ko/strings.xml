@@ -82,4 +82,8 @@
 	  <string name="wallpaper_set_as_both">둘 다 적용</string>
 	  <string name="wallpaper_set_as_destop">배경화면으로 적용</string>
 	  <string name="wallpaper_set_as_lockscreen">잠금화면 배경으로 적용</string>
+	  
+		<string name="component_lockstyle_personal_title">설정</string>
+		<string name="lockstyle_personal_settings">사용자화</string>
+		
 </resources>

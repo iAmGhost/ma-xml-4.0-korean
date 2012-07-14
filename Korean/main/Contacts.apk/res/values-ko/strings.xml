@@ -594,5 +594,19 @@
 		<string name="export_vcard_description">vCard를 SD카드로 내보내기</string>
 		<string name="import_vcard_description">SD카드에서 연락처 가져오기</string>
 		<string name="preference_import_export">가져오기/내보내기</string>
-		<string name="preference_import_export_title">연락처 가져오기/내보내기</string>
+		<string name="preference_import_export_title">연락처 가져오기/내보내기</string
+		>
+		<string name="export_sim_contact_finish">SIM 카드로 내보내기 완료</string>
+		<string name="export_sim_contacts_dialog_message">심 카드에 %d개의 연락처를 저장할 수 있습니다. 계속하시겠습니까?</string>
+		<string name="export_to_sim">SIM 카드로 내보내기</string>
+		<string name="import_to_xiaomi_account_confirm">가져오기</string>
+		<string name="import_to_xiaomi_account_progress_finish">가져오기 완료</string>
+		<string name="import_to_xiaomi_account_progress_message">가져오는 중...</string>
+		<string name="import_to_xiaomi_account_progress_title">Xiaomi 계정으로 가져오기</string>
+		<string name="import_to_xiaomi_account_title">선택한 연락처들을 Xiaomi 계정으로 가져오시겠습니까?</string>
+		<string name="pref_summary_import_from_account">Google, Exchange 계정에서 Xiaomi 계정으로 가져오기</string>
+		<string name="pref_title_account_import">계정에서 가져오기</string>
+		<string name="pref_title_import_from_account">Xiaomi 계정으로 가져오기</string>
+		<string name="sim_card_no_free_space_message">SIM카드가 가득 차서 연락처를 가져올 수 없습니다. SIM카드를 정리하고 다시 시도하세요.</string>
+		<string name="sim_card_no_free_space_title">SIM카드 꽉참</string>
 </resources>

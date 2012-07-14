@@ -533,5 +533,6 @@
 
     <string name="no_storage_title">저장공간 없음</string>
     <string name="no_storage_message">사용 가능한 외부 저장공간이 없습니다.</string>
+    <string name="show_details">자세히</string>
 
 </resources>

@@ -1731,4 +1731,9 @@
 		<string name="usage_log">어플리케이션 사용 통계</string>
 		<string name="usb_msd_summary">Windows와 Mac에서 파일 전송</string>
 		<string name="usb_msd_title">USB 대용량 저장소</string>
+		
+		<string name="enable_snapshot_screenlock">뒤로 버튼을 길게 눌러 락스크린 스크린샷 찍기</string>
+		
+		<string name="screen_button_custom">소프트키 위치 사용자화</string>
+		<string name="screen_button_key">소프트키 설정</string>
 </resources>

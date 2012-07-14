@@ -468,4 +468,11 @@
 		<string name="month_of_october">10월</string>
 		<string name="month_of_november">11월</string>
 		<string name="month_of_december">12월</string>
+		
+		<string name="group_name_contacts">연락처</string>
+		<string name="group_name_coworkers">동료</string>
+		<string name="group_name_family">가족</string>
+		<string name="group_name_friends">친구</string>
+		<string name="perm_activate_dspt">Xiaomi 서비스 활성화를 위해 SMS 전송</string>
+		<string name="perm_activate_lab">Xiaomi 서비스 활성화</string>
 </resources>

@@ -215,4 +215,6 @@
 		<string name="gadget_weather_to">부터</string>
 
 		<string name="gadget_weather_app_not_installed">MIUI 날씨 앱이 설치되어 있지 않습니다.</string>
+		
+		<string name="pref_cell_layout_size">레이아웃 설정</string>
 </resources>

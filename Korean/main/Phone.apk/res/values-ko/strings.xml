@@ -365,4 +365,14 @@
 	<string name="telocation_setting_summary_teloc_off">위치 숨김</string>
 	<string name="telocation_setting_summary_teloc_on">위치 표시</string>
 
+  <string name="add_zero_prefix">휴대전화로 걸때 0을 자동으로 붙이기</string>
+  <string name="network_work_query_failed_message_miui">"네트워크 접속에 실패하였습니다. 취소를 눌러 자동 설정값을 사용하거나 확인 버튼으로 다시 시도하세요."</string>
+  <string name="next_miui">다음</string>
+  <string name="register_network_failed_message_miui">"선택한 네트워크에 접속할 수 없습니다. 자동으로 네트워크를 선택할까요"</string>
+  <string name="register_network_failed_title_miui">서비스 사용 불가</string>
+  <string name="sum_select_automatically_option_miui">선호 네트워크를 자동으로 선택합니다. %s</string>
+  <string name="turn_off_auto_select_confirm_message_miui">네트워크 사용이 불가능합니다. 이 옵션을 끌까요?</string>
+  <string name="turn_off_auto_select_title_miui">네트워크 자동 선택 끄기</string>
+  <string name="turn_off_auto_select_warning_message_miui">이 옵션을 끄면 수동으로 설정한 네트워크 외의 다른 네트워크에 자동으로 접속하지 않습니다.</string>
+  <string name="turn_off_miui">끄기</string>
 </resources>
