@@ -78,8 +78,8 @@
         <item>페이지 위/아래 스크롤</item>
         <item>탭 전환</item>
     </string-array>
-    </string-array>
     <string-array name="pref_fling_on_border_choices">
         <item>페이지 뒤로/앞으로</item>
         <item>탭 전환</item>
+    </string-array>
 </resources>
