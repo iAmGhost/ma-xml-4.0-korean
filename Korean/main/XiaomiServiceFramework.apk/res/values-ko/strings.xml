@@ -53,8 +53,8 @@
 	<string name="micloud_password_req_notice">알파벳과 숫자 조합의 8~16글자 (대소문자 구분)</string>
 	<string name="micloud_reg_new">새로</string>
 	<string name="micloud_resend_active_email">활성 이메일 재전송</string>
-	<string name="micloud_title">MiCloud</string>
-	<string name="micloud_use_existing">사용중</string>
+	<string name="micloud_title">새로 계정을 만들고 싶습니다.</string>
+	<string name="micloud_use_existing">이미 게정이 있습니다.</string>
 	<string name="micloud_val_sms_alert">문자로 인증 번호가 전송됩니다. 계속할까요?</string>
 	<string name="micloud_waiting">기다리는 중...</string>
 	<string name="micloud_welcome_banner">Xiaomi 계정</string>
@@ -63,7 +63,7 @@
 	<string name="password_hint_text">6~16 글자</string>
 	<string name="prev">뒤로</string>
 	<string name="quick_login_title">인증이 필요합니다. 비밀번호를 입력하세요.</string>
-	<string name="reg_by_email_failure">R등록 실패: %1$s</string>
+	<string name="reg_by_email_failure">등록 실패: %1$s</string>
 	<string name="reg_failed">등록 실패</string>
 	<string name="remove_account_notice">이전에 동기화된 메세지, 연락처, 통화기록, 노트를 어떻게 하시겠습니까?</string>
 	<string name="send_sms_for_sync_notice">문자로 인증 번호가 전송됩니다. 계속할까요?</string>

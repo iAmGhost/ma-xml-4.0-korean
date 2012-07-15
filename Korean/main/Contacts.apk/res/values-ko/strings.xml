@@ -428,7 +428,7 @@
     <string name="activity_title_confirm_add_detail" msgid="4065089866210730616">"연락처에 추가"</string>
     <string name="non_phone_close" msgid="7608506439725515667">"닫기"</string>
     <string name="widget_name_and_phonetic" msgid="8739586586600099979">"<xliff:g id="DISPLAY_NAME">%1$s</xliff:g>(<xliff:g id="PHONETIC_NAME">%2$s</xliff:g>)"</string>
-    <string name="date_year_toggle" msgid="7356532842767854606">"출생연도 입력 선택"</string>
+    <string name="date_year_toggle" msgid="7356532842767854606">"출생연도 입력하기"</string>
     <string name="social_widget_label" msgid="6378905543028924592">"연락처"</string>
     <string name="social_widget_loading" msgid="3697996166985327861">"로드 중..."</string>
     <string name="contacts_unavailable_create_contact" msgid="7014525713871959208">"새 연락처 만들기"</string>
@@ -609,4 +609,6 @@
 		<string name="pref_title_import_from_account">Xiaomi 계정으로 가져오기</string>
 		<string name="sim_card_no_free_space_message">SIM카드가 가득 차서 연락처를 가져올 수 없습니다. SIM카드를 정리하고 다시 시도하세요.</string>
 		<string name="sim_card_no_free_space_title">SIM카드 꽉참</string>
+		
+		<string name="date_picker_label">생일 3일전과 당일에 알림을 표시해줍니다.</string>
 </resources>
