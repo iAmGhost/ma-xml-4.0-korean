@@ -1605,7 +1605,7 @@
     <string name="key_settings_title">버튼 설정</string>
     <string name="key_settings">버튼</string>
     <string name="back_long_press">뒤로가기 키</string>
-    <string name="enable_back_long_press">뒤로가기 버튼을 오래 눌러 어플 종료</string>
+    <string name="enable_back_long_press">길게 눌러 어플 강제종료</string>
     <string name="back_long_press_timeout">종료 전 대기 시간</string>
     <string name="power_key">전원 버튼</string>
     <string name="disable_power_key_long_press_under_keyguard">잠금화면 메뉴 비활성화</string>
@@ -1732,7 +1732,7 @@
 		<string name="usb_msd_summary">Windows와 Mac에서 파일 전송</string>
 		<string name="usb_msd_title">USB 대용량 저장소</string>
 		
-		<string name="enable_snapshot_screenlock">뒤로 버튼을 길게 눌러 락스크린 스크린샷 찍기</string>
+		<string name="enable_snapshot_screenlock">길게 눌러 잠금화면 스크린샷 찍기</string>
 		
 		<string name="screen_button_custom">소프트키 위치 사용자화</string>
 		<string name="screen_button_key">소프트키 설정</string>
