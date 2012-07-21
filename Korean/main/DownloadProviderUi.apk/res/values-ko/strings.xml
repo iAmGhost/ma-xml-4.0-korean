@@ -67,4 +67,8 @@
     <string name="might_lead_to_mobile_charge">취소를 누르면 더이상 데이터 사용 확인창이 뜨지 않을 것입니다. 데이터 사용량 증가에 주의하세요.</string>
 		<string name="download_complete">다운로드됨</string>
 		<string name="download_in_process">다운로드중</string>
+		
+	  <string name="editmode_menu_delete">삭제</string>
+	  <string name="editmode_menu_share">공유</string>
+	  <string name="retry_after_network_available">네트워크 연결이 있을때 다시 시도해주세요.</string>
 </resources>
