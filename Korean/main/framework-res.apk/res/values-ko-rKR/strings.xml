@@ -627,9 +627,9 @@
     <string name="policydesc_encryptedStorage">저장한 애플리케이션 데이터를 암호화해야 합니다.</string>
     <string name="policylab_disableCamera">카메라 사용 안함</string>
     <string name="policydesc_disableCamera">모든 기기 카메라의 사용 차단</string>
-    <string name="phoneTypeCustom">맞춤설정</string>
+    <string name="phoneTypeCustom">사용자</string>
     <string name="phoneTypeHome">집</string>
-    <string name="phoneTypeMobile">휴대전화</string>
+    <string name="phoneTypeMobile">핸드폰</string>
     <string name="phoneTypeWork">직장</string>
     <string name="phoneTypeFaxWork">직장 팩스</string>
     <string name="phoneTypeFaxHome">집(팩스)</string>
