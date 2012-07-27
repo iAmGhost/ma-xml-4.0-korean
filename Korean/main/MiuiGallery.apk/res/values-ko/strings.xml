@@ -89,7 +89,7 @@
 
     <!-- Details dialog "OK" button. Dismisses dialog. -->
     <string name="delete">삭제</string>
-    <string name="confirm_delete">삭제</string>
+    <string name="confirm_delete">정말로 사진을 삭제하시겠습니까?</string>
     <string name="cancel">취소</string>
     <string name="share">공유</string>
 
@@ -534,5 +534,12 @@
     <string name="no_storage_title">저장공간 없음</string>
     <string name="no_storage_message">사용 가능한 외부 저장공간이 없습니다.</string>
     <string name="show_details">자세히</string>
-
+    
+		<string name="cloud_gallery_space_full">클라우드 갤러리가 꽉 차서 저장에 실패하였습니다.</string>
+		<string name="cloud_media_set_set">클라우드 앨범</string>
+		<string name="message_no_delete_access">접근이 거부되었습니다: %s</string>
+		<string name="move_cloud_data">클라우드 갤러리 데이터가 이동되었습니다: %s</string>
+		<string name="no_storage_disable_cloud_albums">클라우드 앨범이 비활성화 되었습니다. 외부 저장공간이 활성화되고 다시 시도해주세요.</string>
+		<string name="fail_init_gallery_db_helper">저장공간이 꽉 차 갤러리 데이터베이스를 만들 수 없습니다.</string>
+		<string name="no_map_app">지도 어플이 없습니다.</string>
 </resources>

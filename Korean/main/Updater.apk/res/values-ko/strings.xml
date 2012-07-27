@@ -104,4 +104,14 @@
   <string name="share_sina">Sina에 공유</string>
   <string name="share_qq">QQ에 공유</string>
   <string name="current_version_update_monthly_build">현재 버전 (월간 빌드로 업데이트)</string>
+  
+	<string name="recommend">추천</string>
+	<string name="recommend_comment_hint">이유 (필수 아님)</string>
+	<string name="recommend_vote_title">MIUI 베타 팀 설문조사</string>
+	<string name="submit">등록</string>
+	<string name="submit_fail">등록에 실패하였습니다.</string>
+	<string name="submit_progress">등록중</string>
+	<string name="submit_success">등록되었습니다. 감사합니다!</string>
+	<string name="choose_recommend">이번 업데이트를 추천하는지 아닌지 선택해주세요.</string>
+	<string name="not_recommend">"추천하지 않음"</string>
 </resources>

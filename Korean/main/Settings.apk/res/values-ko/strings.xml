@@ -1736,4 +1736,7 @@
 		
 		<string name="screen_button_custom">소프트키 위치 사용자화</string>
 		<string name="screen_button_key">소프트키 설정</string>
+		
+		<string name="input_settings">입력 설정</string>
+		<string name="show_magnifier_when_input">확대경 보이기</string>
 </resources>
