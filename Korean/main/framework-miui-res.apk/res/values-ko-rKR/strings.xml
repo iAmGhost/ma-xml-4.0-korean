@@ -475,4 +475,7 @@
 		<string name="group_name_friends">친구</string>
 		<string name="perm_activate_dspt">Xiaomi 서비스 활성화를 위해 SMS 전송</string>
 		<string name="perm_activate_lab">Xiaomi 서비스 활성화</string>
+		
+	  <string name="perm_get_user_info_dspt">Xiaomi 계정 정보 보기</string>
+	  <string name="perm_get_user_info_lab">Xiaomi 계정 정보 보기</string>
 </resources>

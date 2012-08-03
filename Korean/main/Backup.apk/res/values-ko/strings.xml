@@ -160,5 +160,18 @@
     <string name="guarded_mode_dialog_title">비밀 모드</string>
     <string name="guarded_mode_dialog_message">비밀 모드에서는 백업 및 복구를 할 수 없습니다.</string>
     <string name="multi_select_title"><xliff:g id="number" example="15">%1$s</xliff:g>개의 항목 선택됨</string>
+    
+	  <string name="already_enable_encrypt">암호화 활성화됨</string>
+	  <string name="enable_encrypt">사용하기</string>
+	  <string name="enable_encrypt_fail">암호화 활성화 실패</string>
+	  <string name="enable_encrypt_indicator">백업 암호화를 사용하려면 터치하세요.</string>
+	  <string name="enable_encrypt_ok">확인</string>
+	  <string name="enable_encrypt_summery1">"시스템이 Xiaomi 계정에 기반하여 백업 파일을 암호화 할 것입니다.다른 기기에서 복원하거나 데이터를 삭제하려면 Xiaomi 계정에 로그인해야 합니다."</string>
+	  <string name="enable_encrypt_summery2">"새 백업 파일이 자동으로 암호화됩니다. 데이터를 삭제하거나 다른 기기에서 복원하려면 Xiaomi 계정에 로그인해야 합니다."</string>
+	  <string name="enable_encrypt_title">암호화 활성화됨</string>
+	  <string name="enable_encrypt_xiaomi_account">이 백업은 %1$s 계정에서 생성되었습니다. 현재 계정을 삭제하고 %2$s 계정으로 로그인한뒤 복원을 다시 시도하세요.</string>
+	  <string name="exchange_account">계정 전환</string>
+	  <string name="no_encrypt_password">비밀번호 암호화 하지 않음</string>
+	  <string name="read_encrypt_fail">암호화된 파일 읽기 실패</string>
 </resources>
 
