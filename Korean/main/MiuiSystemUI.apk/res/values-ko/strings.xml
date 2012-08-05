@@ -261,7 +261,8 @@
 		<string name="screen_key_recent_apps">최근 실행한 앱</string>
 		<string name="settings_show_network_speed">네트워크 속도 표시</string>
 		<string name="toast_rotation_locked">화면이 가로방향으로 고정되었습니다.</string>
-		<string name="status_bar_network_flow_exceed">"오늘: %1$s | 초과: %2$s | 앱: %3$s"</string>
+	  <string name="status_bar_network_flow">"오늘:%1$s    남음:%2$s"</string>
+	  <string name="status_bar_network_flow_exceed">"오늘:%1$s    초과:%2$s"</string>
 		
 		<string name="status_bar_recent_clear_nothing_result">확보할 메모리가 없습니다</string>
 	  <string name="status_bar_recent_guide_all">아래로 내려 고정, 위로 올려 닫을 수 있습니다.</string>
