@@ -114,4 +114,6 @@
 	<string name="submit_success">등록되었습니다. 감사합니다!</string>
 	<string name="choose_recommend">이번 업데이트를 추천하는지 아닌지 선택해주세요.</string>
 	<string name="not_recommend">"추천하지 않음"</string>
+	
+	<string name="refuse_recommend_reason">이유를 적어주세요.</string>
 </resources>

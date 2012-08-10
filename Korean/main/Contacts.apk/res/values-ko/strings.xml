@@ -681,4 +681,14 @@
 		<string name="edit_contact_card_title">연락처 카드 수정</string>
 		<string name="batch_delete_msg">선택한 %d개의 연락처를 삭제하시겠습니까? 클라우드에 저장된 연락처도 함께 삭제됩니다.</string>
 		<string name="menu_batch_delete">연락처 다중 삭제</string>
+		
+  <string name="listAllContactsInAccount">%s 계정의 연락처</string>
+  <string name="listCustomView">커스텀 뷰의 연락처</string>
+  <string name="listSingleContact">단일 연락처</string>
+  <string name="listTotalAllContactsZero">연락처 없음.</string>
+  <string name="listTotalAllContactsZeroCustom">표시 가능한 연락처 없음.</string>
+  <string name="listTotalAllContactsZeroGroup">%s 그룹에 연락처 없음.</string>
+  <string name="listTotalPhoneContactsZero">전화번호를 가진 연락처 없음.</string>
+  <string name="preference_select_account_display">게정별 필터링</string>
+  <string name="select_show_contacts">연락처 표시</string>
 </resources>

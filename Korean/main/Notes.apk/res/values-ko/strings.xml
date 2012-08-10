@@ -109,9 +109,14 @@
     <string name="search_setting_description">노트 내용</string>
     <string name="search">노트</string>
     <plurals name="search_results_title">
-         <item quantity="one"><xliff:g id="number" example="1">%1$s</xliff:g> result for \"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
+         <item quantity="one"><xliff:g id="number" example="1">%1$s</xliff:g>개의 검색 결과:\"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
         <!-- Case of 0 or 2 or more results. -->
-        <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g> results for \"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
+        <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g>개의 검색 결과:\"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
     </plurals>
 
+	  <string name="note_link_email">메일로 보내기</string>
+	  <string name="note_link_other">지도 열기</string>
+	  <string name="note_link_select">텍스트 선택</string>
+	  <string name="note_link_tel">통화</string>
+	  <string name="note_link_web">웹페이지 열기</string>
 </resources>

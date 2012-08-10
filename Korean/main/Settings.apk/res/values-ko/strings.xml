@@ -1739,4 +1739,7 @@
 		
 		<string name="input_settings">입력 설정</string>
 		<string name="show_magnifier_when_input">확대경 보이기</string>
+		
+		<string name="password_guard">암호 보호</string>
+		
 </resources>

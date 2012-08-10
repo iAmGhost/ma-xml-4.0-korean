@@ -217,4 +217,30 @@
 		<string name="gadget_weather_app_not_installed">MIUI 날씨 앱이 설치되어 있지 않습니다.</string>
 		
 		<string name="pref_cell_layout_size">레이아웃 설정</string>
+		
+		<string name="default_folder_title_security">보안 센터</string>
+		<string name="virus_scan_app_continue">계속 검색하기</string>
+		<string name="virus_scan_app_find_risk">%d개의 의심스러운 앱을 찾았습니다.</string>
+		<string name="virus_scan_app_finish">완료</string>
+		<string name="virus_scan_app_force_stop">검사가 중지되었습니다.</string>
+		<string name="virus_scan_app_multi_engines">엔진을 선택하세요. 검사가 오래걸릴수도 있습니다.</string>
+		<string name="virus_scan_app_no_risk">의심스러운 앱을 찾지 못했습니다.</string>
+		<string name="virus_scan_app_passed">검사가 생략되었습니다.</string>
+		<string name="virus_scan_app_risk">의심스러운 앱을 찾았습니다.</string>
+		<string name="virus_scan_app_safe_scanning">앱 보안 검사중입니다.</string>
+		<string name="virus_scan_app_scan_finish">검사가 완료되었습니다.</string>
+		<string name="virus_scan_app_scanning">검사중...</string>
+		<string name="virus_scan_app_stop_scan">검사 중지</string>
+		<string name="virus_scan_app_uninstall">한번에 삭제하기 (%d)</string>
+		<string name="virus_scan_app_waiting">기다리는 중:</string>
+		<string name="virus_scanner_scan">지금 검사하기</string>
+		<string name="virus_scanner_scanning">검사중</string>
+		<string name="virus_scanner_select_Cancel">취소됨</string>
+		<string name="virus_scanner_select_OK">확인</string>
+		<string name="virus_scanner_select_lib">바이러스 데이터베이스</string>
+		<string name="virus_scanner_select_multi">하나이상의 데이터베이스를 선택하면 재설치가 필요합니다.</string>
+		<string name="virus_scanner_select_single">가장 신뢰할 수 있는 바이러스 데이터베이스 선택</string>
+		<string name="virus_scanner_select_trust_lib">신뢰할 수 있는 바이러스 데이터베이스 선택</string>
+		<string name="virus_scanner_title">바이러스 검사</string>
+		<string name="virus_scanner_update_lib">바이러스 데이터베이스 업데이트</string>
 </resources>

@@ -465,4 +465,6 @@
 		<string name="summary_date_type">메세지 시간 표시 형식</string>
 		<string name="title_date_type">메세지 시간 표시 형식</string>
 		<string name="dialog_title_date_type">시간 표시 형식을 선택하세요.</string>
+		
+		<string name="found_wild_messages">다른 SIM카드에 저장된 메세지를 클라우드에서 찾았습니다:%s다운로드 하시겠습니까?</string>
 </resources>

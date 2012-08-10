@@ -186,4 +186,8 @@
 		<string name="wangpan_root_path">내 드라이브</string>
 		<string name="wifi_notication">Wi-Fi로 모든 작업을 할 준비가 되었습니다.</string>
 		<string name="xiaomi_account">Xiaomi 계정</string>
+		
+		<string name="choose_upload_location">업로드 위치 선택</string>
+		<string name="send_to_midrive">MiDrive로 전송</string>
+  	<string name="send_to_midrive_failed_message">MiDrive는 이 유형의 파일을 지원하지 않습니다.</string>
 </resources>

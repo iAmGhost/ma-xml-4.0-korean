@@ -412,4 +412,21 @@
     <string name="detail_format">"포맷: "</string>
     
     <string name="shake_while_screen_on_title">화면이 켜져있을때만 흔들기 사용</string>
+    
+    <string name="billboard">인기순위</string>
+    <string name="discovery_music">음악 찾아보기</string>
+    <string name="hot_artists">인기 아티스트</string>
+	  <string name="load_album_failed">앨범 목록을 불러오는데 실패하였습니다. 다시 시도해주세요.</string>
+	  <string name="load_album_in_process">앨범 목록 불러오기</string>
+	  <string name="load_artist_failed">아티스트 목록을 불러오는데 실패하였습니다. 다시 시도해주세요.</string>
+	  <string name="load_artist_in_process">아티스트 목록 불러오기</string>
+	  <string name="load_audio_failed">곡 목록을 불러오는데 실패하였습니다. 다시 시도해주세요.</string>
+	  <string name="load_audio_in_process">곡 목록 불러오기</string>
+	  <string name="load_bill_failed">인기순위 목록을 불러오는데 실패하였습니다. 다시 시도해주세요.</string>
+	  <string name="load_bill_in_process">인기순위 목록 불러오기</string>
+	  <string name="load_channel_failed">채널 목록을 불러오는데 실패하였습니다. 다시 시도해주세요.</string>
+	  <string name="load_channel_in_process">채널 목록 불러오기</string>
+	  <string name="new_albums">새 앨범</string>
+	  <string name="recommend">추천</string>
+	  <string name="search_suggestion">검색어 제안:</string>
 </resources>
