@@ -1,6 +1,5 @@
 AntiSpam.apk /system/app/AntiSpam.apk
 Backup.apk /system/app/Backup.apk
-BasicSmsReceiver.apk /system/app/BasicSmsReceiver.apk
 Bluetooth.apk /system/app/Bluetooth.apk
 Browser.apk /system/app/Browser.apk
 BugReport.apk /system/app/BugReport.apk
