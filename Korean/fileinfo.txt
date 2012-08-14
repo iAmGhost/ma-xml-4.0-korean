@@ -1,0 +1,2 @@
+AntiSpam.apk /system/app/AntiSpam.apk
+framework-res.apk /system/framework/framework-res.apk
