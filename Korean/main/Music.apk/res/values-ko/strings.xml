@@ -363,7 +363,7 @@
     <string name="buffering">Buffering</string>
 
     <!-- Labels in AndroidManifest.xml -->
-    <string name="musicbrowserlabel">음악</string>
+    <string name="music_browser_label">음악</string>
     <string name="mediaplaybacklabel">음악</string>
 
     <!-- Recently Added -->
