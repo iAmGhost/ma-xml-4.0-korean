@@ -12,7 +12,6 @@ ContactsProvider.apk /system/app/ContactsProvider.apk
 DeskClock.apk /system/app/DeskClock.apk
 DownloadProviderUi.apk /system/app/DownloadProviderUi.apk
 Email.apk /system/app/Email.apk
-Exchange.apk /system/app/Exchange.apk
 FaceLock.apk /system/app/FaceLock.apk
 FileExplorer.apk /system/app/FileExplorer.apk
 HTMLViewer.apk /system/app/HTMLViewer.apk
@@ -32,12 +31,9 @@ Phone.apk /system/app/Phone.apk
 QuickSearchBox.apk /system/app/QuickSearchBox.apk
 Settings.apk /system/app/Settings.apk
 SoundRecorder.apk /system/app/SoundRecorder.apk
-Stk.apk /system/app/Stk.apk
 Tag.apk /system/app/Tag.apk
 ThemeManager.apk /system/app/ThemeManager.apk
 Updater.apk /system/app/Updater.apk
-VideoEditor.apk /system/app/VideoEditor.apk
-VoiceDialer.apk /system/app/VoiceDialer.apk
 XiaomiServiceFramework.apk /system/app/XiaomiServiceFramework.apk
 framework-res.apk /system/framework/framework-res.apk
 framework-miui-res.apk /system/framework/framework-miui-res.apk
