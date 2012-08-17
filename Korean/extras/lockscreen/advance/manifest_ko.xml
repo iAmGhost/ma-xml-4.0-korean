@@ -204,13 +204,13 @@
                     <!-- 未接电话 -->
                     <Image x="#screen_width/2-55" y="180" src="icon_phone.png" align="center" alignV="center" visibility="#call_missed_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="%d missed call" paras="#call_missed_count" visibility="#call_missed_count">
+                    <Text x="#screen_width/2-35" y="168" color="#FFFFFFFF" size="18" format="%d 부재중 전화" paras="#call_missed_count" visibility="#call_missed_count">
                     </Text>
 
                     <!-- 未读短信, 如果没有未接电话，位置往上移 -->
                     <Image x="#screen_width/2-55" y="180+28*min(#call_missed_count,1)" src="icon_sms.png" align="center" alignV="center" visibility="#sms_count">
                     </Image>
-                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="%d unread sms" paras="#sms_count" visibility="#sms_count">
+                    <Text x="#screen_width/2-35" y="168+28*min(#call_missed_count,1)" color="#FFFFFFFF" size="18" format="%d 읽지않은 메세지" paras="#sms_count" visibility="#sms_count">
                     </Text>
                 </Group>
 
@@ -255,7 +255,7 @@
                         <Alpha a="0" time="1000000000000000"/>
                     </AlphaAnimation>
                     <!-- 低电状态 low battery -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="Low battery (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(2,#battery_state)" color="#80FF0000" size="18" format="배터리 부족 (%d%%)" paras="#battery_level">
                     </Text>
 
                     <!-- 充电进度 charging -->
@@ -316,7 +316,7 @@
                     </AlphaAnimation>
                     <Time x="#screen_width/2" y="130" align="center" alignV="bottom" src="lock_screen_bar_time.png">
                     </Time>
-                    <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="EEEE, d MMMM">
+                    <DateTime x="#screen_width/2" y="140" align="center" color="#FFFFFFFF" size="18" format="yyyy/MM/dd EEEE">
                     </DateTime>
                 </Group>
                 <!-- xx的小米手机 -->
@@ -393,7 +393,7 @@
                     </Text>
 
                     <!-- 充电进度 charging -->
-                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="Charging (%d%%)" paras="#battery_level">
+                    <Text x="#screen_width/2" y="#unlock_y-100" align="center" visibility="eq(1,#battery_state)*not(#music_control.visibility)" color="#80FFFFFF" size="18" format="충전중 (%d%%)" paras="#battery_level">
                     </Text>
 
                     <!-- 已充满 battery full -->
