@@ -83,7 +83,9 @@
 	  <string name="wallpaper_set_as_destop">배경화면으로 적용</string>
 	  <string name="wallpaper_set_as_lockscreen">잠금화면 배경으로 적용</string>
 	  
-		<string name="component_lockstyle_personal_title">설정</string>
-		<string name="lockstyle_personal_settings">사용자화</string>
-		
+	<string name="component_lockstyle_personal_title">설정</string>
+	<string name="lockstyle_personal_settings">사용자화</string>
+	
+	<string name="component_category_finest_title">인기있는 목록</string>
+	<string name="component_category_more_title">더 보기</string>
 </resources>

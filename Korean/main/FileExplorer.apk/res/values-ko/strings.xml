@@ -190,4 +190,21 @@
 		<string name="choose_upload_location">업로드 위치 선택</string>
 		<string name="send_to_midrive">MiDrive로 전송</string>
   	<string name="send_to_midrive_failed_message">MiDrive는 이 유형의 파일을 지원하지 않습니다.</string>
+	
+	<string name="compress_message">압축할 위치:</string>
+	<string name="compress_title">압축</string>
+	<string name="decompress_cancel">취소</string>
+	<string name="decompress_confirm">압축을 푸시겠습니까?</string>
+	<string name="decompress_fail">압축 풀기 실패!</string>
+	<string name="decompress_success">압축 풀기 실패</string>
+	<string name="decompress_to">압축 푸는 중…</string>
+	<string name="decompress_to_here">압축 풀 위치:</string>
+  <string name="delete_files">정말로 선택한 %1$d개 파일을 삭제하시겠습니까?</string>
+  <string name="delete_files_and_folders">정말로 선택한 %1$d개 파일과 %1$d개 폴더를 삭제하시겠습니까?</string>
+  <string name="delete_folders">정말로 선택한 %1$d개 폴더를 삭제하시겠습니까?</string>
+  
+  <string name="operation_compress">압축하기</string>
+  <string name="operation_compressing">압축중...</string>
+  <string name="operation_decompressing">압축 푸는 중...</string>
+  <string name="operation_delete_confirm_message_folder">"폴더를 삭제하면 안에 들어있는 폴더도 같이 삭제됩니다."</string>
 </resources>

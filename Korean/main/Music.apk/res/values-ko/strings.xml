@@ -429,4 +429,11 @@
 	  <string name="new_albums">새 앨범</string>
 	  <string name="recommend">추천</string>
 	  <string name="search_suggestion">검색어 제안:</string>
+	  
+	<string name="album_display_summary">앨범아트를 플레이어에 표시</string>
+	<string name="lyric_and_album">가사와 앨범</string>
+	<string name="lyric_display_summary">플레이어에 가사를 표시합니다. (권장)</string>
+	<string name="player_display_settings">플레이어 설정</string>
+	<string name="shake_and_skip">흔들어서 다음곡</string>
+	<string name="shake_while_screen_on_title_summary">화면이 켜져있을때만 흔들기를 사용해 실수를 방지합니다.</string>
 </resources>

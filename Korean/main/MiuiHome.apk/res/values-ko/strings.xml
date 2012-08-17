@@ -243,4 +243,7 @@
 		<string name="virus_scanner_select_trust_lib">신뢰할 수 있는 바이러스 데이터베이스 선택</string>
 		<string name="virus_scanner_title">바이러스 검사</string>
 		<string name="virus_scanner_update_lib">바이러스 데이터베이스 업데이트</string>
+		
+  <string name="upside_apps_title">어플리케이션 선택</string>
+  <string name="upside_edit_bottom_empty_tip">사각형을 터치하여 편집하기</string>
 </resources>

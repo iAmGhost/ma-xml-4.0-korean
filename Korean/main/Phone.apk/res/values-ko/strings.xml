@@ -375,4 +375,7 @@
   <string name="turn_off_auto_select_title_miui">네트워크 자동 선택 끄기</string>
   <string name="turn_off_auto_select_warning_message_miui">이 옵션을 끄면 수동으로 설정한 네트워크 외의 다른 네트워크에 자동으로 접속하지 않습니다.</string>
   <string name="turn_off_miui">끄기</string>
+  
+  <string name="delete_all_sim_contacts_miui">모든 SIM카드 연락처 삭제</string>
+
 </resources>
