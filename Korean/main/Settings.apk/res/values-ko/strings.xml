@@ -1878,7 +1878,7 @@
 	<string name="wifi_p2p_failed_rename_message">기기 이름 변경에 실패하였습니다.</string>
 	<string name="wifi_more">더 보기</string>
 	<string name="spellchecker_quick_settings">설정</string>
-	<string name="user_name_title">이름/string>
+	<string name="user_name_title">이름</string>
 	<string name="button_light_timeout">버튼 조명 설정</string>
 	<string name="user_dict_settings_add_dialog_less_options">간단한 설정</string>
 	<string name="volume_restore_alert">모든 볼륨설정이 기본값으로 돌아갑니다. 계속할까요?</string>
