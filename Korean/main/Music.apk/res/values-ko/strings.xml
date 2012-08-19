@@ -442,7 +442,6 @@
 
 	<string name="filter_by_duration_prefix">"최대 길이 (시간):"</string>
 	<string name="playlist_custom">내 재생목록</string>
-	<string name="fast_scroll_alphabet">" ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
 	<string name="filter_by_duration">파일 길이로 필터링</string>
 	<string name="filter_by_folder_summary_off">필터가 없습니다. 클릭해서 편집하세요.</string>
 	<string name="filter_by_folder_summary_on">필터가 적용되었습니다.. 클릭해서 편집하세요.</string>
