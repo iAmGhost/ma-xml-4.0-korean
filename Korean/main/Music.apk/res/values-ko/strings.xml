@@ -436,4 +436,29 @@
 	<string name="player_display_settings">플레이어 설정</string>
 	<string name="shake_and_skip">흔들어서 다음곡</string>
 	<string name="shake_while_screen_on_title_summary">화면이 켜져있을때만 흔들기를 사용해 실수를 방지합니다.</string>
+
+
+	<string name="recentlyplayed_title">최근 재생됨</string>
+
+	<string name="filter_by_duration_prefix">"최대 길이 (시간):"</string>
+	<string name="playlist_custom">내 재생목록</string>
+	<string name="fast_scroll_alphabet">" ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅊㅋㅌㅍㅎABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+	<string name="filter_by_duration">파일 길이로 필터링</string>
+	<string name="filter_by_folder_summary_off">필터가 없습니다. 클릭해서 편집하세요.</string>
+	<string name="filter_by_folder_summary_on">필터가 적용되었습니다.. 클릭해서 편집하세요.</string>
+	<string name="filter_by_duration_max">5분</string>
+	<string name="filter_by_duration_min">0초</string>
+	<string name="playlist_recently_played">최근 재생됨</string>
+	<string name="playlist_frequently_played">자주 재생됨</string>
+	<string name="file_not_found">파일이 존재하지 않음</string>
+	<string name="filter_by_size">파일 크기로 필터링</string>
+	<string name="frequentlyplayed_title">자주 재생됨</string>
+	<string name="filter_by_duration_summary">필터 길이가 너무 작습니다.</string>
+	<string name="filter_by_size_summary">필터가 너무 작습니다.</string>
+	<string name="not_selected">재생할 곡을 선택하세요.</string>
+	<string name="playlist_system">시스템 재생 목록</string>
+	<string name="shake_degree_desc">흔들기 민감도</string>
+	<string name="filter_by_size_prefix">"최소 크기:"</string>
+	<string name="shake_degree_high">높음</string>
+
 </resources>
