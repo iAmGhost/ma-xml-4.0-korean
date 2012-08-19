@@ -20,6 +20,7 @@
     <item msgid="5172236776878811487">"알림"</item>
     <item msgid="1751151680520784746">"이메일"</item>
     <item msgid="2658001219380695677">"SMS"</item>
+    <item>알람</item>
   </string-array>
   <string-array name="reminder_minutes_labels">
     <item msgid="2416970002377237011">"0분"</item>
