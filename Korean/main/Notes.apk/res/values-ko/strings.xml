@@ -114,5 +114,9 @@
         <item quantity="other"><xliff:g id="number" example="15">%1$s</xliff:g>개의 검색 결과:\"<xliff:g id="search" example="???">%2$s</xliff:g>\"</item>
     </plurals>
 
-	  <string name="note_link_select">텍스트 선택</string>
+	<string name="note_link_select">텍스트 선택</string>
+	  
+	<string name="menu_grid_mode">그리드 뷰 모드</string>
+	<string name="menu_list_mode">리스트 뷰 모드</string>
+	<string name="send_to_note">노트에 저장</string>
 </resources>

@@ -89,4 +89,18 @@
 	<string name="title_login">Xiaomi 계정으로 로그인</string>
 	<string name="title_reg">Xiaomi 계정 만들기</string>
 	<string name="unactivated_user">비활성화됨</string>
+	<string name="disable_find_device_error">%1$s, 위치추적 비활성화에 실패하였습니다.</string>
+	<string name="enable_find_device_error">%1$s, 위치추적 활성화에 실패하였습니다.</string>
+	<string name="find_device">위치추적</string>
+	<string name="find_device_check_phone_error_title">위치추적 활성화에 실패하였습니다.</string>
+	<string name="find_device_disabled_notice">"설정 - 계정 - Xiaomi 계정에서 다시 열 수 있습니다"</string>
+	<string name="find_device_disabled_title">위치추적 비활성화됨</string>
+	<string name="find_device_disabling">끄는 중...</string>
+	<string name="find_device_enabling">켜는 중...</string>
+	<string name="find_device_error_network">네트워크 사용 불가</string>
+	<string name="find_device_error_server">서버 에러</string>
+	<string name="find_device_notice">"기기를 찾을 수 없을때 my.xiaomi.com에 접속하여 위치를 추적하거나 잠그거나 데이터를 삭제할 수 있습니다."</string>
+	<string name="find_device_success_title">위치추적 활성화됨</string>
+	<string name="i_know">확인</string>
+	<string name="other_settings">기타 설정</string>
 </resources>
