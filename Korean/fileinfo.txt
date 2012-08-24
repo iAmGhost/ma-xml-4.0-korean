@@ -38,3 +38,4 @@ XiaomiServiceFramework.apk /system/app/XiaomiServiceFramework.apk
 framework-res.apk /system/framework/framework-res.apk
 framework-miui-res.apk /system/framework/framework-miui-res.apk
 MiuiVideoPlayer.apk /system/app/MiuiVideoPlayer.apk
+LegacyCamera.apk /system/app/LegacyCamera.apk
