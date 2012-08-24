@@ -40,7 +40,6 @@
     <string name="folder_exist">%1$s 폴더는 이미 존재합니다. 이름을 변경하세요.</string>
     <string name="menu_share">공유</string>
     <string name="menu_send_to_desktop">바탕화면에 바로가기 생성</string>
-    <string name="menu_alert">노트 알리미</string>
     <string name="menu_title_select_folder">폴더 선택</string>
 	<string name="menu_move_parent_folder">상위 폴더</string>
     <string name="info_note_enter_desktop">바탕화면에 노트 바로가기가 생성되었습니다</string>
