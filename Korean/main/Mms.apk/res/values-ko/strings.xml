@@ -466,8 +466,8 @@
 	<string name="title_date_type">메세지 시간 표시 형식</string>
 	<string name="dialog_title_date_type">시간 표시 형식을 선택하세요.</string>
 	
-	<string name="found_wild_messages">다른 SIM카드에 저장된 메세지를 클라우드에서 찾았습니다:%s다운로드 하시겠습니까?</string>
-	<string name="found_old_messages">%1%s개의 메세지를 이전 게정에서 찾았습니다. %2$s 계정으로 업로드 하시겠습니까?</string>
+	<string name="found_wild_messages">다른 SIM카드에 저장된 메세지를 클라우드에서 찾았습니다: %s다운로드 하시겠습니까?</string>
+	<string name="found_old_messages">%1$s개의 메세지를 이전 게정에서 찾았습니다. %2$s 계정으로 업로드 하시겠습니까?</string>
 	<string name="found_old_messages_title">메세지 업로드</string>
 	<string name="loading_all_messages">전체 메세지 불러오는 중...</string>
 	<string name="show_all_messages">전체 메세지 보기</string>
