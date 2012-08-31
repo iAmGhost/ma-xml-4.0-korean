@@ -403,4 +403,7 @@
 		<string name="bookmark_to_readmodelist_not_saved">"읽기 목록 저장에 실패했습니다."</string>
 		<string name="bookmark_to_readmodelist_saved">읽기 목록에 저장되었습니다.</string>
 		<string name="readmodelist_bookmarks_to_show">읽기 목록</string>
+		
+		<string name="MIUI_homepage">MIUI 홈</string>
+		<string name="readmode_reach_last_page">마지막 페이지에 도달했습니다.</string>
 </resources>

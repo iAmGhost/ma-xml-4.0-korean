@@ -252,5 +252,10 @@
 	<string name="reset_scene_prompt">화면 구성이 기본값으로 되돌아갑니다.</string>
 	<string name="upside_edit_bar_empty">비어있음</string>
 	<string name="upside_edit_bar_select_app">앱 선택</string>
+	
+	<string name="unnamed_folder_name">이름없는 폴더</string>
+	
+	<string name="upside_enter_tip">두 손가락으로 쓸어내려 자유 바탕화면으로 전환</string>
+	<string name="upside_exit_tip">두 손가락으로 쓸어올려 기본 홈으로 전환</string>
 
 </resources>

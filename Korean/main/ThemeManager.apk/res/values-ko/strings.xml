@@ -88,4 +88,8 @@
 	
 	<string name="component_category_finest_title">인기있는 목록</string>
 	<string name="component_category_more_title">더 보기</string>
+	
+	<string name="all_ringtone_resource">전체 벨소리</string>
+	<string name="long_ringtone_resource">김 (5초 이상)</string>
+	<string name="short_ringtone_resource">짧음 (5초 미만)</string>
 </resources>

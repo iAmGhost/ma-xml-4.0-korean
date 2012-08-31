@@ -440,31 +440,35 @@
     <string name="confirm_delete_all_RUIM_messages">RUIM 카드에 있는 모든 메시지를 삭제합니다.</string>
     <string name="festival_sms_sdcard_unready">SD card not ready</string>
     <string name="ruim_empty">RUIM 카드에 저장된 메시지가 없습니다.</string>
-		<string name="ruim_full_title">RUIM 카드 용량이 부족함</string>
+	<string name="ruim_full_title">RUIM 카드 용량이 부족함</string>
     <string name="ruim_manage_messages_title">RUIM 카드에 저장된 메시지</string>
     <string name="save_to_ruim">RUIM 카드에 저장</string>
     
-		<string name="ex_type_mms">MMS</string>
-		<string name="ex_type_mx">클라우드 메세지</string>
-		<string name="ex_type_sms">SMS</string>
-		<string name="mi_msg">클라우드 메세지</string>
-		<string name="msg_type_hint_mms">멀티미디어 메세지</string>
-		<string name="msg_type_hint_mx">클라우드 메세지</string>
-		<string name="msg_type_hint_sms">일반 메세지</string>
-		<string name="mx_activate_failure">클라우드 메세지 활성화 실패</string>
-		<string name="mx_activating">활성화중…</string>
-		<string name="mx_auto_resend_sms">SMS로 보내기</string>
-		<string name="mx_auto_resend_sms_summary">클라우드 메세지를 사용할 수 없을 시 SMS로 전송합니다.</string>
-		<string name="mx_btn_enable">활성화</string>
-		<string name="mx_count_dspt">MIUI가 총 %d개의 클라우드 메세지를 전송했습니다.</string>
-		<string name="mx_dspt">MIUI 사용자끼리 메세지를 주고받습니다. 실패할경우 일반 메세지로 전송합니다.</string>
-		<string name="mx_enable">클라우드 메세지 활성화</string>
-		<string name="mx_warning_notice">클라우드 메세지 활성화시 SMS 하나가 전송됩니다.</string>
-		<string name="need_download">동기화 대기 중...</string>
+	<string name="ex_type_mms">MMS</string>
+	<string name="ex_type_mx">클라우드 메세지</string>
+	<string name="ex_type_sms">SMS</string>
+	<string name="mi_msg">클라우드 메세지</string>
+	<string name="msg_type_hint_mms">멀티미디어 메세지</string>
+	<string name="msg_type_hint_mx">클라우드 메세지</string>
+	<string name="msg_type_hint_sms">일반 메세지</string>
+	<string name="mx_activate_failure">클라우드 메세지 활성화 실패</string>
+	<string name="mx_activating">활성화중…</string>
+	<string name="mx_auto_resend_sms">SMS로 보내기</string>
+	<string name="mx_auto_resend_sms_summary">클라우드 메세지를 사용할 수 없을 시 SMS로 전송합니다.</string>
+	<string name="mx_btn_enable">활성화</string>
+	<string name="mx_count_dspt">MIUI가 총 %d개의 클라우드 메세지를 전송했습니다.</string>
+	<string name="mx_dspt">MIUI 사용자끼리 메세지를 주고받습니다. 실패할경우 일반 메세지로 전송합니다.</string>
+	<string name="mx_enable">클라우드 메세지 활성화</string>
+	<string name="mx_warning_notice">클라우드 메세지 활성화시 SMS 하나가 전송됩니다.</string>
+	<string name="need_download">동기화 대기 중...</string>
 		
-		<string name="summary_date_type">메세지 시간 표시 형식</string>
-		<string name="title_date_type">메세지 시간 표시 형식</string>
-		<string name="dialog_title_date_type">시간 표시 형식을 선택하세요.</string>
-		
-		<string name="found_wild_messages">다른 SIM카드에 저장된 메세지를 클라우드에서 찾았습니다:%s다운로드 하시겠습니까?</string>
+	<string name="summary_date_type">메세지 시간 표시 형식</string>
+	<string name="title_date_type">메세지 시간 표시 형식</string>
+	<string name="dialog_title_date_type">시간 표시 형식을 선택하세요.</string>
+	
+	<string name="found_wild_messages">다른 SIM카드에 저장된 메세지를 클라우드에서 찾았습니다:%s다운로드 하시겠습니까?</string>
+	<string name="found_old_messages">%1%s개의 메세지를 이전 게정에서 찾았습니다. %2$s 계정으로 업로드 하시겠습니까?</string>
+	<string name="found_old_messages_title">메세지 업로드</string>
+	<string name="loading_all_messages">전체 메세지 불러오는 중...</string>
+	<string name="show_all_messages">전체 메세지 보기</string>
 </resources>
