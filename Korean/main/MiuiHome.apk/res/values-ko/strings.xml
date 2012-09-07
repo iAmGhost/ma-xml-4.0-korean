@@ -257,5 +257,8 @@
 	
 	<string name="upside_enter_tip">두 손가락으로 쓸어내려 자유 바탕화면으로 전환</string>
 	<string name="upside_exit_tip">두 손가락으로 쓸어올려 기본 홈으로 전환</string>
+	
+	<string name="permdesc_install_widget">사용자 동의 없이 어플이 위젯을 추가하는것을 허용</string>
+	<string name="permlab_install_widget">위젯 설치</string>
 
 </resources>

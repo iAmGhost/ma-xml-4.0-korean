@@ -483,4 +483,12 @@
 	<string name="perm_use_find_device">기기 위치추적</string>
 	<string name="perm_use_pin_security">PIN 보안 사용</string>
 	<string name="find_device_sim_change_instructions">"기기가 잠금 상태입니다. SIM카드를 삽입하거나 Xiaomi 계정 비밀번호를 입력하세요."</string>
-</resources>
+
+  <string name="error_forbidden">계정에 문제가 있어 동기화가 비활성화 되었습니다.</string>
+  <string name="error_not_acceptable">서버에 문제가 있어 동기화가 비활성화 되었습니다.</string>
+  <string name="error_title">%s 동기화중 문제가 에러가 발생했습니다.</string>
+  <string name="error_unauthorized">로그인을 너무 많이 실패해 동기화가 비활성화 되었습니다.</string>
+  <string name="screen_on_proximity_sensor_hint">"전원버튼을 길게 눌러 강제종료를 할 수 있습니다. 설정 - 화면에서 바꿀 수 있습니다."</string>
+  <string name="screen_on_proximity_sensor_title">오작동 방지</string>
+
+  </resources>

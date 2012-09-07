@@ -552,4 +552,6 @@
 	  <string name="sync_history_power_on_summary">비활성화시 배터리가 빠르게 소모될 수 있습니다.</string>
 	  <string name="sync_only_in_wifi">Wi-Fi에서만 동기화</string>
 	  <string name="sync_only_in_wifi_summary">비활성화시 데이터 요금이 많이 나갈 수 있습니다.</string>
+	  
+	  <string name="crop_fail_to_load_image">이미지 잘라내기에 실패하였습니다.</string>
 </resources>

@@ -183,4 +183,9 @@
     <string name="SysOpt_Boost_Receiver">백그라운드</string>
     <string name="SysOpt_Boost_AutoStart_Group">자동실행</string>
     <string name="SysOpt_Boost_AutoStart">자동실행 권한</string>
+	
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable">루트 권한은 안정 버전의 MIUI에서는 사용할 수 없습니다.</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Desc">"ROOT 권한을 사용하는 앱들은 시스템 불안정, 데이터 손실, 시스템이나 하드웨어에 손상 등을 초래할 수 있습니다. 루트 권한 사용을 원한다면 개발 버전을 설치하여 주세요."</string>
+  <string name="Dashboard_Perm_SU_Disabled_In_Stable_Download">MIUI 다운로드</string>
+  <string name="HIPS_Perm_ROOT_Desc_Stable">안정 버전에서 사용 불가</string>
 </resources>

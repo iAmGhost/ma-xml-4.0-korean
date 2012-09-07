@@ -116,4 +116,7 @@
 	<string name="not_recommend">"추천하지 않음"</string>
 	
 	<string name="refuse_recommend_reason">이유를 적어주세요.</string>
+	
+	<string name="install_qq">QQ 앱 설치</string>
+	<string name="install_sina">Sina 앱 설치</string>
 </resources>

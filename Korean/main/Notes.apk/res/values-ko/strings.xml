@@ -125,5 +125,7 @@
 	<string name="toast_message_add_image_fail">이미지 삽입을 실패하였습니다!</string>
 	<string name="image_edit_action_delete">삭제</string>
 	<string name="attachment_gallery">갤러리</string>
+	
+	<string name="error_widget_exist_for_send_to_desktop">이 노트는 이미 바탕화면에 있습니다.</string>
 
 </resources>

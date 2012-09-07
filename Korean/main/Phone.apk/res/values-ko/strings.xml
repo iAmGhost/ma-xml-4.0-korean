@@ -377,5 +377,14 @@
   <string name="turn_off_miui">끄기</string>
   
   <string name="delete_all_sim_contacts_miui">모든 SIM카드 연락처 삭제</string>
-
+  
+  <string name="auto_record_scenario_enteries_always_miui">모든 번호에 대해 자동 통화녹음</string>
+  <string name="auto_record_scenario_enteries_whitelist_miui">자동으로 통화녹음할 번호 지정</string>
+  <string name="auto_record_scenario_title_miui">자동 통화녹음 모드</string>
+  <string name="auto_record_whitelist_miui">자동 통화녹음 설정</string>
+  <string name="auto_record_whitelist_no_item_miui">아래 버튼을 눌러 자동 통화녹음할 번호 추가</string>
+  <string name="auto_record_whitelist_summary_miui">총 %d개의 번호</string>
+  <string name="call_record_setting_miui">통화녹음 설정</string>
+  <string name="screen_on_proximity_sensor_summary">조도센서를 사용해 주머니에 넣었을 시 오작동 방지</string>
+  <string name="screen_on_proximity_sensor_title">오작동 방지</string>
 </resources>

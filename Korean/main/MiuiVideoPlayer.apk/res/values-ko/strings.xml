@@ -31,4 +31,9 @@
     <string name="adjust_position_next_media_notice">다음</string>
 	<string name="buffering">버퍼링 중...</string>
 	<string name="loading_video_netplay_label">불러오는 중...</string>
+	<string name="airkan_video_playing_in">동영상 재생 중...</string>
+	<string name="menu_item_orientation_auto_sensor_action">회전 켜기</string>
+	<string name="menu_item_orientation_fixed_by_videosize_action">회전 끄기</string>
+	<string name="menu_item_screen_shot">스크린샷</string>
+	<string name="menu_wh_item_full_screen_label">전체 화면</string>
 </resources>
