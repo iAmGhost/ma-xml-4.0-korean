@@ -36,4 +36,10 @@
 	<string name="menu_item_orientation_fixed_by_videosize_action">회전 끄기</string>
 	<string name="menu_item_screen_shot">스크린샷</string>
 	<string name="menu_wh_item_full_screen_label">전체 화면</string>
+	<string name="menu_item_sub_title">자막</string>
+	<string name="temp_play_history_button_label">재생기록 보기</string>
+	<string name="toast_message_continue_play_from">이어서 보기: </string>
+	<string name="toast_message_continue_play_hour">시간</string>
+	<string name="toast_message_continue_play_minute">분</string>
+	<string name="toast_message_continue_play_second_and_play">초</string>
 </resources>

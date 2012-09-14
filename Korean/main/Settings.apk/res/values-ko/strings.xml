@@ -1987,5 +1987,6 @@
 	<string name="user_dict_settings_more_languages">언어 더 보기…</string>
 	<string name="enable_traces_summary_num">%1$d개의 추적이 활성화 되어있습니다.</string>
 	<string name="wifi_failed_connect_message">네트워크 연결에 실패하였습니다.</string>
+	<string name="virus_scanner_kinsoft_provider">보안 기능 제공: Kingsoft Phone Guardian</string>
 
 </resources>

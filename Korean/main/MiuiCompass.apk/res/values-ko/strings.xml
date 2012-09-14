@@ -7,4 +7,7 @@
     <string name="location_south">%s 남</string>
     <string name="location_east">%s 동</string>
     <string name="location_west">%s 서</string>
+	<string name="altitude">고도</string>
+	<string name="meter">미터</string>
+	<string name="pressure">압력</string>
 </resources>
