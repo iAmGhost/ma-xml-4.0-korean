@@ -557,4 +557,18 @@
 	  
   <string name="error_should_not_select_image">이미지 파일은 선택할 수 없습니다.</string>
   <string name="error_should_not_select_video">동영상 파일은 선택할 수 없습니다.</string>
+  
+  <string name="external_sd_card">SD카드</string>
+  <string name="external_usb_device">USB 장치</string>
+  <string name="how_many_volumes">%d개의 저장장치</string>
+ <string name="internal_sd_card">내부 SD카드</string>
+ <string name="storage_all_volumes">모든 저장장치</string>
+ 
+ <string name="account_not_login">Xiaomi 계정에 로그인하여 클라우드와 동기화를 할 수 있습니다. 클라우드 동기화를 사용하면 모든 사진들이 자동으로 서버에 업로드 되어 편리합니다.</string>
+ <string name="alert_message_initial_cloud">이제 Wi-Fi에 연결되어 있으면 사진들을 자동으로 업로드 할 것입니다.</string>
+ <string name="loading_thumbnail">썸네일 다운로드 중</string>
+ <string name="loading_will_cost">사진을 받으려면 데이터 연결이 필요합니다.</string>
+ <string name="login_account">Xiaomi 계정에 로그인 및 동기화</string>
+ <string name="open_sync">지금 동기화</string>
+  <string name="sync_not_open">클라우드 동기화를 사용하면 모든 사진들이 자동으로 서버에 업로드 되어 편리합니다.</string>
 </resources>

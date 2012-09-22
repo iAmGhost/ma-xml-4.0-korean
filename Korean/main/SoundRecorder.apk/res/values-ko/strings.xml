@@ -42,4 +42,5 @@
     <string name="alert_message_delete_record">선택한 녹음을 삭제하시겠습니까?</string>
 	<string name="notification_playback">녹음된 파일 재생중...</string>
 	<string name="notification_playback_paused">재생 일시중지 됨</string>
+	<string name="fm_record">FM 녹음중 (%d)</string>
 </resources>

@@ -139,8 +139,16 @@
     <string name="check_all">모두 선택</string>
     <string name="check_nothing">모두 선택해제</string>
     
-		<string name="close_rule">차단규칙 비활성화</string>
-		<string name="fw_log_inf">수신거부 기록</string>
-
+	<string name="close_rule">차단규칙 비활성화</string>
+	<string name="fw_log_inf">수신거부 기록</string>
+		
+	<string name="remove_call_log">모든 통화 기록을 삭제 하시겠습니까?</string>
+	<string name="remove_contact">선택한 연락처를 삭제 하시겠습니까?</string>
+	<string name="remove_delete">삭제</string>
+	<string name="remove_inf">선택한 정보를 삭제 하시겠습니까?</string>
+	<string name="remove_sms">모든 메세지 기록을 삭제 하시겠습니까?</string>
+	
+	<string name="remove_all_keywords">모든 키워드를 삭제 하시겠습니까?</string>
+	<string name="remove_keyword">이 키워드를 삭제하시겠습니까?</string>
 </resources>
 

@@ -387,4 +387,12 @@
   <string name="call_record_setting_miui">통화녹음 설정</string>
   <string name="screen_on_proximity_sensor_summary">조도센서를 사용해 주머니에 넣었을 시 오작동 방지</string>
   <string name="screen_on_proximity_sensor_title">오작동 방지</string>
+  <string name="back_miui">뒤로</string>
+  
+  <string name="tone_miui">톤</string>
+  <string name="dial_pad_touch_tone_default_miui">기본값</string>
+  <string name="dial_pad_touch_tone_human_miui">목소리</string>
+  <string name="dial_pad_touch_tone_miui">다이얼패드 터치 톤</string>
+  <string name="dial_pad_touch_tone_piano_miui">피아노 소리</string>
+  <string name="dial_pad_touch_tone_setting_miui">다이얼 버튼음 설정</string>
 </resources>

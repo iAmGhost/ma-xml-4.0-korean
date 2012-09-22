@@ -127,5 +127,9 @@
 	<string name="attachment_gallery">갤러리</string>
 	
 	<string name="error_widget_exist_for_send_to_desktop">이 노트는 이미 바탕화면에 있습니다.</string>
+	
+	<string name="move_to_parent">상위 폴더로 옮기기</string>
+	
+	<string name="app_widget">노트</string>
 
 </resources>

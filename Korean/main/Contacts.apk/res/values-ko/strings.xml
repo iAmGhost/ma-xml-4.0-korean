@@ -695,4 +695,6 @@
   <string name="contacts_unavailable_add_xiaomi_account">Xiaomi 연락처 동기화</string>
   <string name="pref_key_rebuild_t9_index_message">연락처 검색 문제를 해결합니다.</string>
   <string name="pref_key_rebuild_t9_index_title">T9 색인 데이터 재생성</string>
+  
+  <string name="hint_search_phone_numbers">%d 개의 연락처 전화번호</string>
 </resources>
