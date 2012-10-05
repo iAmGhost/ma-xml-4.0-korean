@@ -456,7 +456,7 @@
 	<string name="mx_auto_resend_sms">SMS로 보내기</string>
 	<string name="mx_auto_resend_sms_summary">클라우드 메세지를 사용할 수 없을 시 SMS로 전송합니다.</string>
 	<string name="mx_btn_enable">활성화</string>
-	<string name="mx_count_dspt">MIUI가 총 %d개의 클라우드 메세지를 전송했습니다.</string>
+	<string name="mx_count_dspt">MIUI가 총 %1$d개의 클라우드 메세지를 전송했습니다. (%2$s)</string>
 	<string name="mx_dspt">MIUI 사용자끼리 메세지를 주고받습니다. 실패할경우 일반 메세지로 전송합니다.</string>
 	<string name="mx_enable">클라우드 메세지 활성화</string>
 	<string name="mx_warning_notice">클라우드 메세지 활성화시 SMS 하나가 전송됩니다.</string>
@@ -471,4 +471,8 @@
 	<string name="found_old_messages_title">메세지 업로드</string>
 	<string name="loading_all_messages">전체 메세지 불러오는 중...</string>
 	<string name="show_all_messages">전체 메세지 보기</string>
+	
+	<string name="mx_dspt_disabled">MIUI를 통해 인터넷으로 메세지를 전송합니다. 실패시 통신사 기본 메세지를 통해 재전송합니다.</string>
+	<string name="mx_offline">오프라인</string>
+	<string name="mx_online">온라인</string>
 </resources>

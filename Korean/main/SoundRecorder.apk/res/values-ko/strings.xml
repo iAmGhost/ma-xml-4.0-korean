@@ -28,7 +28,7 @@
     <string name="notification_warning">남은공간 부족(%d분 이하)...</string>
     <string name="record_list">녹음 목록</string>
     <string name="sd_card_not_available">SD카드 사용이 불가능합니다.</string>
-    <string name="call_record">통화 녹음</string>
+    <string name="call_record">통화 녹음(%d)</string>
     <string name="open_file_explorer">파일 탐색기 열기</string>
     <string name="no_file">파일 없음</string>
     <string name="mark_now">(현재)</string>
@@ -43,4 +43,5 @@
 	<string name="notification_playback">녹음된 파일 재생중...</string>
 	<string name="notification_playback_paused">재생 일시중지 됨</string>
 	<string name="fm_record">FM 녹음중 (%d)</string>
+	
 </resources>

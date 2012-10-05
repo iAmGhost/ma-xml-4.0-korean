@@ -45,7 +45,7 @@
     <string name="info_note_enter_desktop">바탕화면에 노트 바로가기가 생성되었습니다</string>
     <string name="alert_message_delete_folder">폴더와 폴더 안의 노트를 삭제하겠습니까?</string>
     <string name="alert_title_delete">선택한 노트 삭제</string>
-    <string name="alert_message_delete_notes">선택한 %d개의 노트를 삭제하겠습니까?</string>
+    <string name="alert_message_delete_notes">선택한 %1$s개의 노트를 삭제하겠습니까?</string>
     <string name="alert_message_delete_note">노트를 삭제하겠습니까?</string>
     <string name="format_move_notes_to_folder">선택한 %1$d 노트를 %2$s 폴더로 이동했습니다.</string>
     <!-- Error information -->
@@ -131,5 +131,7 @@
 	<string name="move_to_parent">상위 폴더로 옮기기</string>
 	
 	<string name="app_widget">노트</string>
-
+	
+	<string name="alert_message_delete_folders">선택한 %1$s개 폴더를 삭제하시겠습니까?</string>
+	<string name="alert_message_delete_folders_notes">선택한 %1$s개 폴더와 %2$s개 노트를 삭제하시겠습니까?</string>
 </resources>

@@ -395,4 +395,11 @@
   <string name="dial_pad_touch_tone_miui">다이얼패드 터치 톤</string>
   <string name="dial_pad_touch_tone_piano_miui">피아노 소리</string>
   <string name="dial_pad_touch_tone_setting_miui">다이얼 버튼음 설정</string>
+  
+  <string name="areacode_required_accept_miui">확인</string>
+  <string name="current_areacode_sum_set_miui">현재 위치에 대한 국가번호: %s</string>
+  <string name="t9_indexing_method_pinyin">PinYin</string>
+  <string name="t9_indexing_method_title_miui">T9 검색 설정</string>
+  <string name="t9_indexing_method_zhuyin">ZhuYin</string>
+  <string name="t9_indexing_rebuilding_message">T9 인덱스 재생성 중…</string>
 </resources>

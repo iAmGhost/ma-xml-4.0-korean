@@ -535,40 +535,44 @@
     <string name="no_storage_message">사용 가능한 외부 저장공간이 없습니다.</string>
     <string name="show_details">자세히</string>
     
-		<string name="cloud_gallery_space_full">클라우드 갤러리가 꽉 차서 저장에 실패하였습니다.</string>
-		<string name="cloud_media_set_set">클라우드 앨범</string>
-		<string name="message_no_delete_access">접근이 거부되었습니다: %s</string>
-		<string name="move_cloud_data">클라우드 갤러리 데이터가 이동되었습니다: %s</string>
-		<string name="no_storage_disable_cloud_albums">클라우드 앨범이 비활성화 되었습니다. 외부 저장공간이 활성화되고 다시 시도해주세요.</string>
-		<string name="fail_init_gallery_db_helper">저장공간이 꽉 차 갤러리 데이터베이스를 만들 수 없습니다.</string>
-		<string name="no_map_app">지도 앱이 없습니다.</string>
-		
-		<string name="cloud_albums">클라우드 앨범</string>
-		<string name="cloud_gallery_setting">클라우드 앨범 설정</string>
-		<string name="alert">알림</string>
-		<string name="alert_message_sync_histoy_power_on">사진은 충전중일때만 동기화 됩니다. 설정 메뉴에서 동기화 가능 시점을 바꿀 수 있습니다.</string>
-		<string name="gallery_cloud_provider_name">갤러리</string>
-	  <string name="sync_history_power_on">충전중일때만 사진 동기화</string>
-	  <string name="sync_history_power_on_summary">비활성화시 배터리가 빠르게 소모될 수 있습니다.</string>
-	  <string name="sync_only_in_wifi">Wi-Fi에서만 동기화</string>
-	  <string name="sync_only_in_wifi_summary">비활성화시 데이터 요금이 많이 나갈 수 있습니다.</string>
-	  
-	  <string name="crop_fail_to_load_image">이미지 잘라내기에 실패하였습니다.</string>
-	  
-  <string name="error_should_not_select_image">이미지 파일은 선택할 수 없습니다.</string>
-  <string name="error_should_not_select_video">동영상 파일은 선택할 수 없습니다.</string>
-  
-  <string name="external_sd_card">SD카드</string>
-  <string name="external_usb_device">USB 장치</string>
-  <string name="how_many_volumes">%d개의 저장장치</string>
- <string name="internal_sd_card">내부 SD카드</string>
- <string name="storage_all_volumes">모든 저장장치</string>
- 
- <string name="account_not_login">Xiaomi 계정에 로그인하여 클라우드와 동기화를 할 수 있습니다. 클라우드 동기화를 사용하면 모든 사진들이 자동으로 서버에 업로드 되어 편리합니다.</string>
- <string name="alert_message_initial_cloud">이제 Wi-Fi에 연결되어 있으면 사진들을 자동으로 업로드 할 것입니다.</string>
- <string name="loading_thumbnail">썸네일 다운로드 중</string>
- <string name="loading_will_cost">사진을 받으려면 데이터 연결이 필요합니다.</string>
- <string name="login_account">Xiaomi 계정에 로그인 및 동기화</string>
- <string name="open_sync">지금 동기화</string>
-  <string name="sync_not_open">클라우드 동기화를 사용하면 모든 사진들이 자동으로 서버에 업로드 되어 편리합니다.</string>
+	<string name="cloud_gallery_space_full">클라우드 갤러리가 꽉 차서 저장에 실패하였습니다.</string>
+	<string name="cloud_media_set_set">클라우드 앨범</string>
+	<string name="message_no_delete_access">접근이 거부되었습니다: %s</string>
+	<string name="move_cloud_data">클라우드 갤러리 데이터가 이동되었습니다: %s</string>
+	<string name="no_storage_disable_cloud_albums">클라우드 앨범이 비활성화 되었습니다. 외부 저장공간이 활성화되고 다시 시도해주세요.</string>
+	<string name="fail_init_gallery_db_helper">저장공간이 꽉 차 갤러리 데이터베이스를 만들 수 없습니다.</string>
+	<string name="no_map_app">지도 앱이 없습니다.</string>
+
+	<string name="cloud_albums">클라우드 앨범</string>
+	<string name="cloud_gallery_setting">클라우드 앨범 설정</string>
+	<string name="alert">알림</string>
+	<string name="alert_message_sync_histoy_power_on">사진은 충전중일때만 동기화 됩니다. 설정 메뉴에서 동기화 가능 시점을 바꿀 수 있습니다.</string>
+	<string name="gallery_cloud_provider_name">갤러리</string>
+	<string name="sync_history_power_on">충전중일때만 사진 동기화</string>
+	<string name="sync_history_power_on_summary">비활성화시 배터리가 빠르게 소모될 수 있습니다.</string>
+	<string name="sync_only_in_wifi">Wi-Fi에서만 동기화</string>
+	<string name="sync_only_in_wifi_summary">비활성화시 데이터 요금이 많이 나갈 수 있습니다.</string>
+
+	<string name="crop_fail_to_load_image">이미지 잘라내기에 실패하였습니다.</string>
+
+	<string name="error_should_not_select_image">이미지 파일은 선택할 수 없습니다.</string>
+	<string name="error_should_not_select_video">동영상 파일은 선택할 수 없습니다.</string>
+
+	<string name="external_sd_card">SD카드</string>
+	<string name="external_usb_device">USB 장치</string>
+	<string name="how_many_volumes">%d개의 저장장치</string>
+	<string name="internal_sd_card">내부 SD카드</string>
+	<string name="storage_all_volumes">모든 저장장치</string>
+
+	<string name="account_not_login">Xiaomi 계정에 로그인하여 클라우드와 동기화를 할 수 있습니다. 클라우드 동기화를 사용하면 모든 사진들이 자동으로 서버에 업로드 되어 편리합니다.</string>
+	<string name="alert_message_initial_cloud">이제 Wi-Fi에 연결되어 있으면 사진들을 자동으로 업로드 할 것입니다.</string>
+	<string name="loading_thumbnail">썸네일 다운로드 중</string>
+	<string name="loading_will_cost">사진을 받으려면 데이터 연결이 필요합니다. (약 %1$dK)</string>
+	<string name="login_account">Xiaomi 계정에 로그인 및 동기화</string>
+	<string name="open_sync">지금 동기화</string>
+	<string name="sync_not_open">클라우드 동기화를 사용하면 모든 사진들이 자동으로 서버에 업로드 되어 편리합니다.</string>
+	
+	<string name="clear_thumbnail_cache_summary">갤러리 탐색시 생성된 썸네일 이미지를 지워 공간을 확보합니다.</string>
+	<string name="sync_album_summary">사진과 스크린샷을 MiCloud 앨범에 업로드하기</string>
+
 </resources>

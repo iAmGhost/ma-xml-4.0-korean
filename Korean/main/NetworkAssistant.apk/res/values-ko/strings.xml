@@ -138,4 +138,14 @@
 	<string name="adjust_traffic_carrier_summary_three_day_before">3일 전 갱신됨</string>
 	<string name="adjust_traffic_carrier_summary_today">오늘 %1$02d:%2$02d에 갱신됨</string>
 	<string name="adjust_traffic_carrier_summary_yesterday">어제 %1$02d:%2$02d에 갱신됨</string>
+	
+	<string name="carrier_settings_button">서비스 제공자 설정</string>
+	<string name="menu_sort_by_all_traffic">총 사용량별 정렬</string>
+	<string name="menu_sort_by_disabled">활성화 여부별 정렬</string>
+	<string name="menu_sort_by_mobile_traffic">2G/3G 사용량별 정렬</string>
+	<string name="menu_sort_by_name">이름별 정렬</string>
+	
+	<string name="notify_carrier_settings_title">서비스 제공자를 설정하지 않았습니다. 지금 설정하시겠습니까?</string>
+	<string name="notify_traffic_settings_cancel_hint">사용량 모니터링과 알림이 중지됩니다. 종료하시겠습니까?</string>
+	<string name="notify_traffic_settings_title">데이터 플랜을 설정하지 않았습니다. 지금 설정하시겠습니까?</string>
 </resources>

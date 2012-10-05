@@ -103,4 +103,12 @@
 	<string name="find_device_success_title">위치추적 활성화됨</string>
 	<string name="i_know">확인</string>
 	<string name="other_settings">기타 설정</string>
+	
+	<string name="find_device_notice_p1">기기를 분실하였을 때는</string>
+	<string name="find_device_notice_p2">i.xiaomi.com</string>
+	<string name="find_device_notice_p3">에 접속하여 위치추적, 잠금, 데이터 삭제가 가능합니다.</string>
+	<string name="sim_changed_notification_content">SIM카드가 비활성화 되었습니다. 다시 활성화 해주세요.</string>
+	<string name="skip_setup_account_msg">Xiaomi 계정을 설정하면 문자메세지, 연락처, 사진, 노트 등을 온라인으로 동기화 할 수 있습니다. 나중에 설정하시겠습니까?</string>
+	<string name="skip_setup_account_title">계정 설정 건너뛰기</string>
+	<string name="account_dspt">"Xiaomi 계정은 문자메세지, 연락처, 사진, 노트 등을 온라인으로 동기화 할 수 있습니다."</string>
 </resources>
